@@ -1,0 +1,26 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+#profile-image {
+	max-width: 200px;
+	margin: 0 auto;
+}
+
+.embed {
+	padding: 5px;
+}
+
+.embed iframe {
+	max-width: 100%;
+}
+
+#embeds-wrapper {
+	margin-top: 62px;
+}
+
+.spacer-40 {
+	height: 40px;
+}
