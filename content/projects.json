@@ -51,10 +51,10 @@
         { "label": "Operahuset, P3 Live", "url": "https://www.youtube.com/watch?v=o1IUxQJ2vG8" }
       ],
       "releases": [
-        { "title": "How did I let this get so serious?", "year": "2025", "cover": "/covers/how-did-i-let-this-get-so-serious.jpg" },
-        { "title": "Stuck Cat", "year": "2025", "cover": "/covers/stuck-cat.jpg" },
-        { "title": "Deathbed", "year": "2024", "cover": "/covers/deathbed.jpg" },
-        { "title": "Late to the Party", "year": "2024", "cover": "/covers/late-to-the-party.jpg" }
+        { "title": "How did I let this get so serious?", "year": "2025", "url": "https://open.spotify.com/album/05Ubk2mvbh4XsKR5mCDDUU", "cover": "/covers/how-did-i-let-this-get-so-serious.jpg" },
+        { "title": "Stuck Cat", "year": "2025", "url": "https://open.spotify.com/album/0S5MNLgZE7impVo3pcvHEV", "cover": "/covers/stuck-cat.jpg" },
+        { "title": "Deathbed", "year": "2024", "url": "https://open.spotify.com/album/2xzMh5FNtZkKM1xTCkkSBX", "cover": "/covers/deathbed.jpg" },
+        { "title": "Late to the Party", "year": "2024", "url": "https://open.spotify.com/album/4AT4LspPIDZxipYYXBaSgt", "cover": "/covers/late-to-the-party.jpg" }
       ],
       "years": "2023–"
     },
@@ -81,7 +81,7 @@
       "about": "Vocalist, composer and keyboard player who makes electronic pop and composes for the performing arts. From 2016 to 2019, and again from 2022. Concerts include school tours in 2016, 2018, 2022, 2023 and 2025, a tour of Latin America in 2016 (Lima, Montevideo, Buenos Aires and São Paulo), Henie Onstad Kunstsenter in 2016, Madrid in 2019 and Berlin in 2024.",
       "media": [{ "label": "Bling Bling Bling, live at Henie Onstad Kunstsenter, 2016", "url": "https://www.youtube.com/watch?v=eF02946O6hc" }],
       "years": "2016–",
-      "releases": [{ "title": "Burning Love", "year": "2019", "url": "https://www.discogs.com/master/2725598", "cover": "/covers/burning-love.jpg" }]
+      "releases": [{ "title": "Burning Love", "year": "2019", "url": "https://open.spotify.com/album/5PTQVLrbBljUFYQkxRA2Lu", "cover": "/covers/burning-love.jpg" }]
     },
     {
       "id": "atlanter",
@@ -93,12 +93,12 @@
       "summary": "Composer and drummer.",
       "about": "Quartet on Jansen Records, with Jens Carelius, Arild Hammerø and Morten Kvam; the band calls its music viddeblues. Nominated for Spellemannprisen and the Nordic Music Prize in 2014. Concerts include by:Larm, Øyafestivalen, Hovefestivalen, Bukta and Oslo World in 2013, by:Larm, Ja Ja Ja in London, Berlin Music Week and Waves Vienna in 2014.",
       "releases": [
-        { "title": "Klokker", "year": "2026", "url": "https://www.discogs.com/release/36881239", "cover": "/covers/klokker.jpg" },
-        { "title": "Jewels Of Crime", "year": "2016", "url": "https://www.discogs.com/master/950215", "cover": "/covers/jewels-of-crime.jpg" },
-        { "title": "Prins Thomas Remix", "year": "2016", "url": "https://www.discogs.com/release/18171970", "cover": "/covers/prins-thomas-remix.jpg" },
+        { "title": "Klokker", "year": "2026", "url": "https://open.spotify.com/album/4wjNEUqqedpcT60ZcVNzBv", "cover": "/covers/klokker.jpg" },
+        { "title": "Jewels Of Crime", "year": "2016", "url": "https://open.spotify.com/album/7eQwIviRwgiQCQzxcmQaBu", "cover": "/covers/jewels-of-crime.jpg" },
+        { "title": "Prins Thomas Remix", "year": "2016", "url": "https://open.spotify.com/album/4s4dvztNT0dqR3vxH07FYS", "cover": "/covers/prins-thomas-remix.jpg" },
         { "title": "Stand Still / Temple", "year": "2015", "url": "https://www.discogs.com/release/6923845", "cover": "/covers/stand-still-temple.jpg" },
         { "title": "Ost & Kjex Remixes", "year": "2014", "url": "https://www.discogs.com/release/6425832", "cover": "/covers/ost-og-kjex-remixes.jpg" },
-        { "title": "Vidde", "year": "2013", "url": "https://www.discogs.com/master/566572", "cover": "/covers/vidde.jpg" }
+        { "title": "Vidde", "year": "2013", "url": "https://open.spotify.com/album/1oBqOI5gVAmctM79g7VbLq", "cover": "/covers/vidde.jpg" }
       ],
       "years": "2012–",
       "media": [
@@ -149,7 +149,7 @@
       "status": "ended",
       "summary": "Musical director and drummer.",
       "about": "Alan Walker is a Norwegian-English artist, DJ and producer. Full time from 2016 to 2021, with single shows after that. Concerts include Bergen in 2016, the EBBA Awards in Groningen and New York in 2017, Spellemann, Coachella, and Beijing during the Norwegian state visit to China in 2018, and in 2019 the KKBOX Music Awards in Taipei and the Aviation Tour in Chengdu, Shanghai, Foshan, Oslo Spektrum, Bengaluru, Mumbai and Delhi.",
-      "releases": [{ "title": "Ina Wroldsen: Strongest (Alan Walker Remix)", "year": "2017", "url": "https://www.discogs.com/master/1268911", "cover": "/covers/strongest-alan-walker-remix.jpg" }],
+      "releases": [{ "title": "Ina Wroldsen: Strongest (Alan Walker Remix)", "year": "2017", "url": "https://open.spotify.com/album/3d1YhgZvB8NLZLakA5l4rk", "cover": "/covers/strongest-alan-walker-remix.jpg" }],
       "years": "2016–2024",
       "media": [
         { "label": "Faded, live", "url": "https://www.youtube.com/watch?v=mIxlvVlOIS0" },
@@ -223,7 +223,7 @@
       "summary": "Drummer.",
       "about": "Guitarist, singer and songwriter from Bærum. Concerts include Copenhagen and Aarhus in 2015, Øyafestivalen and Spellemann in 2019, the live album recording at Oslo Konserthus in 2019, and Nidarosdomen in 2023.",
       "years": "2015–2023",
-      "releases": [{ "title": "Leave Me To The Moon (Live In Oslo)", "year": "2020", "url": "https://www.discogs.com/release/15950391", "cover": "/covers/leave-me-to-the-moon.jpg" }],
+      "releases": [{ "title": "Leave Me To The Moon (Live In Oslo)", "year": "2020", "url": "https://open.spotify.com/album/3qbwhwPRZvUBDCRvYwf1ax", "cover": "/covers/leave-me-to-the-moon.jpg" }],
       "media": [
         { "label": "Leave Me To The Moon, live in Oslo", "url": "https://www.youtube.com/watch?v=y7oYnK0Ecu4" },
         { "label": "Fire On The Mountain, live in Oslo", "url": "https://www.youtube.com/watch?v=uJ6CpJJDGZA" },
@@ -260,7 +260,7 @@
       "summary": "Producer, musical director and drummer.",
       "about": "Singer and performance artist based in Oslo. Concerts include London in 2014, by:Larm in 2015 and Eurosonic in 2017.",
       "releases": [
-        { "title": "One Year", "year": "2014", "url": "https://www.discogs.com/master/4170058", "cover": "/covers/one-year.jpg" },
+        { "title": "One Year", "year": "2014", "url": "https://open.spotify.com/album/5xdbvK9OUkvw3ep0Rq3umA", "cover": "/covers/one-year.jpg" },
         { "title": "Trip Abroad", "year": "2014", "cover": "/covers/trip-abroad.jpg" }
       ],
       "years": "2013–2017",
@@ -307,8 +307,8 @@
       "summary": "Drums, percussion and keyboards.",
       "about": "Artist and songwriter from Sykkylven, based in Oslo. Played keyboards with her at South by Southwest in 2015, four shows in three days. Concerts in London in 2014 and a tour of Germany in 2015.",
       "releases": [
-        { "title": "Flashblack", "year": "2012", "url": "https://www.discogs.com/master/655762", "cover": "/covers/flashblack.jpg" },
-        { "title": "Stillness And Panic", "year": "2013", "url": "https://www.discogs.com/master/718091", "cover": "/covers/stillness-and-panic.jpg" }
+        { "title": "Flashblack", "year": "2012", "url": "https://open.spotify.com/album/0uRaid0zKkxFe24iq9HKAz", "cover": "/covers/flashblack.jpg" },
+        { "title": "Stillness And Panic", "year": "2013", "url": "https://open.spotify.com/album/36QipPmuRiSUuurRnRCxpu", "cover": "/covers/stillness-and-panic.jpg" }
       ],
       "years": "2011–2016",
       "media": [{ "label": "One Plus One Makes One Out Of Two", "url": "https://www.youtube.com/watch?v=BRNr1mlj30Q" }]
@@ -323,7 +323,7 @@
       "status": "ended",
       "summary": "Drums, percussion and electronics in Frøy Aagre Electric.",
       "years": "2012–2013",
-      "releases": [{ "title": "Electric", "year": "2013", "url": "https://www.discogs.com/release/11421486", "cover": "/covers/electric.jpg" }],
+      "releases": [{ "title": "Electric", "year": "2013", "url": "https://open.spotify.com/album/7p7gPG7ZJzexAlv78HWVIV", "cover": "/covers/electric.jpg" }],
       "media": [{ "label": "Castle in the Air", "url": "https://www.youtube.com/watch?v=fTuvnZeYL8c" }]
     },
     {
@@ -337,10 +337,10 @@
       "about": "Oslo band on the label Metronomicon Audio, playing guitar pop sung in Norwegian. Concerts include by:Larm in 2013, Øyafestivalen in 2014 and Musikkfest Oslo in 2015.",
       "years": "2012–2018",
       "releases": [
-        { "title": "Lite Å Gjøre", "year": "2018", "cover": "/covers/lite-a-gjore.jpg" },
-        { "title": "Nedi Havet", "year": "2013", "url": "https://www.discogs.com/release/6331390", "cover": "/covers/nedi-havet.jpg" },
-        { "title": "Dagens Ungdom", "year": "2014", "url": "https://www.discogs.com/release/5947672", "cover": "/covers/dagens-ungdom.jpg" },
-        { "title": "Naken Gris", "year": "2015", "url": "https://www.discogs.com/release/7996427", "cover": "/covers/naken-gris.jpg" }
+        { "title": "Lite Å Gjøre", "year": "2018", "url": "https://open.spotify.com/album/0mZrgzMoaXFpReXgXQB44h", "cover": "/covers/lite-a-gjore.jpg" },
+        { "title": "Nedi Havet", "year": "2013", "url": "https://open.spotify.com/album/0j7rjXTt65p901OzF7Tp3w", "cover": "/covers/nedi-havet.jpg" },
+        { "title": "Dagens Ungdom", "year": "2014", "url": "https://open.spotify.com/album/56w1uCNqoqSXWBMbMGrdvY", "cover": "/covers/dagens-ungdom.jpg" },
+        { "title": "Naken Gris", "year": "2015", "url": "https://open.spotify.com/album/4xSIsvGQW7stkSu7rX3zLk", "cover": "/covers/naken-gris.jpg" }
       ],
       "media": [{ "label": "Aldri vite", "url": "https://open.spotify.com/track/1drrtINK7WUNptzyukAilQ", "poster": "https://i.scdn.co/image/ab67616d00001e023e7b467208fce2b1caa216f1" }]
     },
@@ -355,11 +355,11 @@
       "about": "Band from Fredrikstad playing electronica, rock, dub and psychedelia. Also built the band's live rack, which stands in for a sound engineer. Concerts include by:Larm in 2013, the release concert for Coconut Message at Parkteatret and Hovefestivalen in 2014, and a live session on NRK P3 in 2015.",
       "years": "2011–2015",
       "releases": [
-        { "title": "Coconut Message", "year": "2014", "cover": "/covers/coconut-message.jpg" },
-        { "title": "Now We're Gonna Learn To Swim", "year": "2014", "cover": "/covers/now-were-gonna-learn-to-swim.jpg" },
-        { "title": "Yugen (Telling Me All)", "year": "2013", "cover": "/covers/yugen.jpg" },
+        { "title": "Coconut Message", "year": "2014", "url": "https://open.spotify.com/album/1K4BXXXTilMQ5XjMW7O7VW", "cover": "/covers/coconut-message.jpg" },
+        { "title": "Now We're Gonna Learn To Swim", "year": "2014", "url": "https://open.spotify.com/album/3mhc1Uh0r99UdsL7QT3StM", "cover": "/covers/now-were-gonna-learn-to-swim.jpg" },
+        { "title": "Yugen (Telling Me All)", "year": "2013", "url": "https://open.spotify.com/album/2LF7gWJZEB3KAcGETUhukE", "cover": "/covers/yugen.jpg" },
         { "title": "Curiosity", "year": "2012", "cover": "/covers/curiosity.jpg" },
-        { "title": "Beach House", "year": "2012", "cover": "/covers/beach-house.jpg" },
+        { "title": "Beach House", "year": "2012", "url": "https://open.spotify.com/album/15SqLHRZK1nG7yMgMZqDlH", "cover": "/covers/beach-house.jpg" },
         { "title": "Natural", "year": "2012", "cover": "/covers/natural.jpg" }
       ],
       "media": [
@@ -409,7 +409,7 @@
         { "label": "Half Human", "url": "https://open.spotify.com/track/6sAy6eXzvYzlslsojtVols", "poster": "https://i.scdn.co/image/ab67616d00001e0263660ff113b73d3d674745ff" }
       ],
       "years": "2015",
-      "releases": [{ "title": "Blackwinged Night", "year": "2015", "url": "https://www.discogs.com/master/906761", "cover": "/covers/blackwinged-night.jpg" }]
+      "releases": [{ "title": "Blackwinged Night", "year": "2015", "url": "https://open.spotify.com/album/2TTaNcvcNax9dDDuACsLmB", "cover": "/covers/blackwinged-night.jpg" }]
     },
     {
       "id": "anders-wyller",
@@ -426,7 +426,7 @@
         { "label": "Ringstrøms antikvariat", "url": "https://open.spotify.com/track/7FpbOIh21CaPsfq4nWTEgm", "poster": "https://i.scdn.co/image/ab67616d00001e02549e2b71c408fd587ffb2419" }
       ],
       "years": "2018",
-      "releases": [{ "title": "Norsk Skog", "year": "2018", "url": "https://www.discogs.com/master/1503036", "cover": "/covers/norsk-skog.jpg" }]
+      "releases": [{ "title": "Norsk Skog", "year": "2018", "url": "https://open.spotify.com/album/3gjE5Q9CeoZisaRmP4iOK3", "cover": "/covers/norsk-skog.jpg" }]
     },
     {
       "id": "anna-soleil",
@@ -442,7 +442,7 @@
       "status": "one-off",
       "summary": "Drums on the single Loved You Then And Now Again.",
       "years": "2023–2025",
-      "releases": [{ "title": "Loved You Then And Now Again", "year": "2025", "cover": "/covers/loved-you-then-and-now-again.jpg" }]
+      "releases": [{ "title": "Loved You Then And Now Again", "year": "2025", "url": "https://open.spotify.com/album/7wkcWVE9G06G5TrlAQO4VF", "cover": "/covers/loved-you-then-and-now-again.jpg" }]
     },
     {
       "id": "some-feather",
@@ -474,7 +474,7 @@
       "status": "one-off",
       "summary": "Drums on the single Hjertet tar'kke feil.",
       "years": "2013–2015",
-      "releases": [{ "title": "Hjertet tar'kke feil", "year": "2015", "cover": "/covers/hjertet-tarkke-feil.jpg" }]
+      "releases": [{ "title": "Hjertet tar'kke feil", "year": "2015", "url": "https://open.spotify.com/album/2a6HV3iv5tC5xd4HP4Bb5H", "cover": "/covers/hjertet-tarkke-feil.jpg" }]
     },
     {
       "id": "anna-melkild",
@@ -915,8 +915,8 @@
       "status": "ended",
       "summary": "Drummer.",
       "releases": [
-        { "title": "Strand og hav", "year": "2024", "cover": "/covers/strand-og-hav.jpg" },
-        { "title": "By Love", "year": "2019", "cover": "/covers/by-love.jpg" }
+        { "title": "Strand og hav", "year": "2024", "url": "https://open.spotify.com/album/0XzebEJGZqwcfjpTKG7ZVR", "cover": "/covers/strand-og-hav.jpg" },
+        { "title": "By Love", "year": "2019", "url": "https://open.spotify.com/album/5F4q6E5Njc6K6hokZTRUrN", "cover": "/covers/by-love.jpg" }
       ]
     },
     {
@@ -991,7 +991,7 @@
       "years": "2017–2018",
       "summary": "Keyboards and percussion on a live album recorded at Parkteatret in Oslo in 2017 and released in 2018.",
       "about": "The first in Pekula's series of commissioned pieces, made for the venue's 15th anniversary. Music by Simen Følstad Nilsen, Axel Skalstad and Erlend Mokkelbost. Performed behind curtains with the musicians' names kept secret: Axel Skalstad, Ellen Brekken, Marte Eberson, Simen Følstad Nilsen, Gunhild Ramsay Kristoffersen and Jonas Barsten.",
-      "releases": [{ "title": "Live Vol. 1 Arp", "year": "2018", "url": "https://www.discogs.com/master/2743475", "cover": "/covers/live-vol-1-arp.jpg" }],
+      "releases": [{ "title": "Live Vol. 1 Arp", "year": "2018", "url": "https://open.spotify.com/album/34Gjl0sVzZzrw0MpC0wiaa", "cover": "/covers/live-vol-1-arp.jpg" }],
       "links": [{ "label": "release page", "url": "https://www.pekula.no/releases/pekula-vol-1-arp" }],
       "media": [{ "label": "Pekula Vol. 1: ARP", "url": "https://www.youtube.com/watch?v=WpIT8G1pcow" }]
     },
