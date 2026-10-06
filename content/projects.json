@@ -39,52 +39,6 @@
   },
   "projects": [
     {
-      "id": "anna-lille",
-      "badges": ["live", "studio"],
-      "name": "Anna Lille",
-      "site": "jonasbarsten.com",
-      "category": "music",
-      "status": "active",
-      "summary": "Musical director and drummer.",
-      "about": "Singer and songwriter from Nordfjordeid, on Propeller Recordings. Concerts include Trondheim Calling and by:Larm in 2024, Øyafestivalen, Bergenfest and Vinjerock in 2025, and Groningen in 2026.",
-      "media": [
-        { "label": "Late to the Party, P3 Live at Kulturkirken Jakob", "url": "https://www.youtube.com/watch?v=hyUUY7UpQoo" },
-        { "label": "Operahuset, P3 Live", "url": "https://www.youtube.com/watch?v=o1IUxQJ2vG8" }
-      ],
-      "releases": [
-        { "title": "How did I let this get so serious?", "year": "2025", "url": "https://open.spotify.com/album/05Ubk2mvbh4XsKR5mCDDUU", "cover": "/covers/how-did-i-let-this-get-so-serious.jpg" },
-        { "title": "Stuck Cat", "year": "2025", "url": "https://open.spotify.com/album/0S5MNLgZE7impVo3pcvHEV", "cover": "/covers/stuck-cat.jpg" },
-        { "title": "Deathbed", "year": "2024", "url": "https://open.spotify.com/album/2xzMh5FNtZkKM1xTCkkSBX", "cover": "/covers/deathbed.jpg" },
-        { "title": "Late to the Party", "year": "2024", "url": "https://open.spotify.com/album/4AT4LspPIDZxipYYXBaSgt", "cover": "/covers/late-to-the-party.jpg" }
-      ],
-      "years": "2023–"
-    },
-    {
-      "id": "daniel-kvammen",
-      "badges": ["live"],
-      "name": "Daniel Kvammen",
-      "site": "jonasbarsten.com",
-      "category": "music",
-      "status": "active",
-      "summary": "Musical director and drummer.",
-      "about": "Singer and songwriter from Geilo, who sings in the Hallingdal dialect. In 2015 and 2016, and again from 2021. Concerts include VG-lista at Rådhusplassen in Oslo in 2015, Rockefeller in 2016, and a tour in 2021 that ended at Byscenen in Trondheim.",
-      "media": [{ "label": "VG-lista Topp 20 at Rådhusplassen, 2015 (the full broadcast)", "url": "https://tv.nrk.no/serie/vg-lista-topp-20-tv/sesong/2015/episode/MYNT18000215", "poster": "https://gfx.nrk.no/vv9fWXpMZF4KKz4yx3F3rwhElOKWlahcdiciUF5k9TnA" }],
-      "years": "2015–"
-    },
-    {
-      "id": "sandra-kolstad",
-      "badges": ["live", "studio"],
-      "name": "Sandra Kolstad",
-      "site": "jonasbarsten.com",
-      "category": "music",
-      "status": "active",
-      "summary": "Composer, producer and drummer.",
-      "about": "Vocalist, composer and keyboard player who makes electronic pop and composes for the performing arts. From 2016 to 2019, and again from 2022. Concerts include school tours in 2016, 2018, 2022, 2023 and 2025, a tour of Latin America in 2016 (Lima, Montevideo, Buenos Aires and São Paulo), Henie Onstad Kunstsenter in 2016, Madrid in 2019 and Berlin in 2024.",
-      "media": [{ "label": "Bling Bling Bling, live at Henie Onstad Kunstsenter, 2016", "url": "https://www.youtube.com/watch?v=eF02946O6hc" }],
-      "years": "2016–",
-      "releases": [{ "title": "Burning Love", "year": "2019", "url": "https://open.spotify.com/album/5PTQVLrbBljUFYQkxRA2Lu", "cover": "/covers/burning-love.jpg" }]
-    },
-    {
       "id": "atlanter",
       "badges": ["live", "studio"],
       "name": "Atlanter",
@@ -110,36 +64,25 @@
       ]
     },
     {
-      "id": "vegard",
-      "badges": ["live"],
-      "name": "Vegard",
+      "id": "anna-lille",
+      "badges": ["live", "studio"],
+      "name": "Anna Lille",
       "site": "jonasbarsten.com",
       "category": "music",
       "status": "active",
       "summary": "Musical director and drummer.",
-      "about": "Vegard is the artist name of Vegard Bjørsmo, a Sámi artist from Karasjok. Concerts in 2026 include Utsjoki and Inari in Finland, and Rabalder in Tromsø.",
-      "years": "2026–"
-    },
-    {
-      "id": "sirkus-eliassen",
-      "name": "Sirkus Eliassen",
-      "site": "jonasbarsten.com",
-      "category": "music",
-      "status": "one-off",
-      "summary": "Musical director for the preparation of their tour. Not on stage.",
-      "about": "Sirkus Eliassen is a pop duo from Bodø, formed by the brothers Magnus and Erik Eliassen. Made the music production and the playback setup for their 2026 live show and handed it over before the first concert in December 2025.",
-      "years": "2025"
-    },
-    {
-      "id": "luna",
-      "badges": ["live"],
-      "name": "L.U:N.A",
-      "about": "L.U:N.A is the artist name of Mia Roussel.",
-      "site": "jonasbarsten.com",
-      "category": "music",
-      "status": "one-off",
-      "summary": "Drummer. Concerts at Øyafestivalen and at Parkteatret in Oslo.",
-      "years": "2022–2023"
+      "about": "Singer and songwriter from Nordfjordeid, on Propeller Recordings. Concerts include Trondheim Calling and by:Larm in 2024, Øyafestivalen, Bergenfest and Vinjerock in 2025, and Groningen in 2026.",
+      "media": [
+        { "label": "Late to the Party, P3 Live at Kulturkirken Jakob", "url": "https://www.youtube.com/watch?v=hyUUY7UpQoo" },
+        { "label": "Operahuset, P3 Live", "url": "https://www.youtube.com/watch?v=o1IUxQJ2vG8" }
+      ],
+      "releases": [
+        { "title": "How did I let this get so serious?", "year": "2025", "url": "https://open.spotify.com/album/05Ubk2mvbh4XsKR5mCDDUU", "cover": "/covers/how-did-i-let-this-get-so-serious.jpg" },
+        { "title": "Stuck Cat", "year": "2025", "url": "https://open.spotify.com/album/0S5MNLgZE7impVo3pcvHEV", "cover": "/covers/stuck-cat.jpg" },
+        { "title": "Deathbed", "year": "2024", "url": "https://open.spotify.com/album/2xzMh5FNtZkKM1xTCkkSBX", "cover": "/covers/deathbed.jpg" },
+        { "title": "Late to the Party", "year": "2024", "url": "https://open.spotify.com/album/4AT4LspPIDZxipYYXBaSgt", "cover": "/covers/late-to-the-party.jpg" }
+      ],
+      "years": "2023–"
     },
     {
       "id": "alan-walker",
@@ -178,6 +121,63 @@
       "about": "Matoma is the artist name of Tom Stræte Lagergren, a producer and DJ. Concerts include Tysnesfest, Stavernfestivalen and Opptur in 2019, and VG-lista in 2024.",
       "years": "2019–2024",
       "media": [{ "label": "WOW, with Emma Steinbakken, live on NRK Lindmo", "url": "https://www.youtube.com/watch?v=u5umRNr2duw" }]
+    },
+    {
+      "id": "sandra-kolstad",
+      "badges": ["live", "studio"],
+      "name": "Sandra Kolstad",
+      "site": "jonasbarsten.com",
+      "category": "music",
+      "status": "active",
+      "summary": "Composer, producer and drummer.",
+      "about": "Vocalist, composer and keyboard player who makes electronic pop and composes for the performing arts. From 2016 to 2019, and again from 2022. Concerts include school tours in 2016, 2018, 2022, 2023 and 2025, a tour of Latin America in 2016 (Lima, Montevideo, Buenos Aires and São Paulo), Henie Onstad Kunstsenter in 2016, Madrid in 2019 and Berlin in 2024.",
+      "media": [{ "label": "Bling Bling Bling, live at Henie Onstad Kunstsenter, 2016", "url": "https://www.youtube.com/watch?v=eF02946O6hc" }],
+      "years": "2016–",
+      "releases": [{ "title": "Burning Love", "year": "2019", "url": "https://open.spotify.com/album/5PTQVLrbBljUFYQkxRA2Lu", "cover": "/covers/burning-love.jpg" }]
+    },
+    {
+      "id": "daniel-kvammen",
+      "badges": ["live"],
+      "name": "Daniel Kvammen",
+      "site": "jonasbarsten.com",
+      "category": "music",
+      "status": "active",
+      "summary": "Musical director and drummer.",
+      "about": "Singer and songwriter from Geilo, who sings in the Hallingdal dialect. In 2015 and 2016, and again from 2021. Concerts include VG-lista at Rådhusplassen in Oslo in 2015, Rockefeller in 2016, and a tour in 2021 that ended at Byscenen in Trondheim.",
+      "media": [{ "label": "VG-lista Topp 20 at Rådhusplassen, 2015 (the full broadcast)", "url": "https://tv.nrk.no/serie/vg-lista-topp-20-tv/sesong/2015/episode/MYNT18000215", "poster": "https://gfx.nrk.no/vv9fWXpMZF4KKz4yx3F3rwhElOKWlahcdiciUF5k9TnA" }],
+      "years": "2015–"
+    },
+    {
+      "id": "vegard",
+      "badges": ["live"],
+      "name": "Vegard",
+      "site": "jonasbarsten.com",
+      "category": "music",
+      "status": "active",
+      "summary": "Musical director and drummer.",
+      "about": "Vegard is the artist name of Vegard Bjørsmo, a Sámi artist from Karasjok. Concerts in 2026 include Utsjoki and Inari in Finland, and Rabalder in Tromsø.",
+      "years": "2026–"
+    },
+    {
+      "id": "sirkus-eliassen",
+      "name": "Sirkus Eliassen",
+      "site": "jonasbarsten.com",
+      "category": "music",
+      "status": "one-off",
+      "summary": "Musical director for the preparation of their tour. Not on stage.",
+      "about": "Sirkus Eliassen is a pop duo from Bodø, formed by the brothers Magnus and Erik Eliassen. Made the music production and the playback setup for their 2026 live show and handed it over before the first concert in December 2025.",
+      "years": "2025"
+    },
+    {
+      "id": "luna",
+      "badges": ["live"],
+      "name": "L.U:N.A",
+      "about": "L.U:N.A is the artist name of Mia Roussel.",
+      "site": "jonasbarsten.com",
+      "category": "music",
+      "status": "one-off",
+      "summary": "Drummer. Concerts at Øyafestivalen and at Parkteatret in Oslo.",
+      "years": "2022–2023"
     },
     {
       "id": "sei-selina",
