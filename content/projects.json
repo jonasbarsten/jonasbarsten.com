@@ -142,8 +142,8 @@
       "site": "jonasbarsten.com",
       "category": "music",
       "status": "active",
-      "summary": "Drummer, and musical director from 2023.",
-      "about": "Matoma is the artist name of Tom Stræte Lagergren, a producer and DJ. Concerts include Tysnesfest, Stavernfestivalen and Opptur in 2019, and VG-lista in 2024.",
+      "summary": "Drummer and musical director",
+      "about": "Matoma is the artist name of Tom Stræte Lagergren, a producer and DJ. Musical director from 2023. Concerts include Tysnesfest, Stavernfestivalen and Opptur in 2019, and VG-lista in 2024.",
       "years": "2019–",
       "media": [{ "label": "WOW, with Emma Steinbakken, live on NRK Lindmo", "url": "https://www.youtube.com/watch?v=u5umRNr2duw" }]
     },
@@ -428,8 +428,8 @@
       "site": "jonasbarsten.com",
       "category": "music",
       "status": "one-off",
-      "summary": "Drums on the album Blackwinged Night.",
-      "about": "Phaedra is the music project of Ingvild Langgård; the album came out on Rune Grammofon. Drums on the track Blackwinged Night and shaker on Half Human.",
+      "summary": "Drummer",
+      "about": "Drums on the album Blackwinged Night. Phaedra is the music project of Ingvild Langgård; the album came out on Rune Grammofon. Drums on the track Blackwinged Night and shaker on Half Human.",
       "media": [
         { "label": "Blackwinged Night", "url": "https://open.spotify.com/track/7aGzBEB2EEPmklPT9lnK70", "poster": "https://i.scdn.co/image/ab67616d00001e0263660ff113b73d3d674745ff" },
         { "label": "Half Human", "url": "https://open.spotify.com/track/6sAy6eXzvYzlslsojtVols", "poster": "https://i.scdn.co/image/ab67616d00001e0263660ff113b73d3d674745ff" }
@@ -444,8 +444,8 @@
       "site": "jonasbarsten.com",
       "category": "music",
       "status": "one-off",
-      "summary": "Drums on the album Norsk Skog.",
-      "about": "On the tracks Alle har gått hjem, Uro, Ringstrøms antikvariat and Hei sol!",
+      "summary": "Drummer",
+      "about": "Drums on the album Norsk Skog, on the tracks Alle har gått hjem, Uro, Ringstrøms antikvariat and Hei sol!",
       "media": [
         { "label": "Alle har gått hjem", "url": "https://open.spotify.com/track/4w09VXYxwKeXsYe3utUHmL", "poster": "https://i.scdn.co/image/ab67616d00001e02549e2b71c408fd587ffb2419" },
         { "label": "Uro", "url": "https://open.spotify.com/track/7cKxzMPxAHmSd6si0yvKPL", "poster": "https://i.scdn.co/image/ab67616d00001e02549e2b71c408fd587ffb2419" },
@@ -474,7 +474,7 @@
       "id": "some-feather",
       "badges": ["studio"],
       "name": "Some Feather",
-      "about": "Some Feather is the name Kristine Hovda first released music under.",
+      "about": "Drums on Princess Song and on Love By Association, with Thom Hell. Some Feather is the name Kristine Hovda first released music under.",
       "media": [
         { "label": "Princess Song, music video", "url": "https://www.youtube.com/watch?v=uQMrTEmnBn8" },
         { "label": "Love By Association, with Thom Hell", "url": "https://open.spotify.com/track/10YMXX7TO6lvUWnTyryiHE", "poster": "https://i.scdn.co/image/ab67616d00001e02294b8ce48ab2eb533d87abb5" }
@@ -482,7 +482,7 @@
       "site": "jonasbarsten.com",
       "category": "music",
       "status": "one-off",
-      "summary": "Drums on Princess Song and on Love By Association, with Thom Hell.",
+      "summary": "Drummer",
       "years": "2017",
       "releases": [
         { "title": "High Water Mark", "year": "2017", "cover": "/covers/high-water-mark.jpg" },
@@ -493,12 +493,12 @@
       "id": "tom-hugo",
       "badges": ["live", "studio"],
       "name": "Tom Hugo",
-      "about": "Tom Hugo is a singer and songwriter, and one of the three members of KEiiNO. Also concerts in 2013 and 2014.",
+      "about": "Drums on the single Hjertet tar'kke feil. Tom Hugo is a singer and songwriter, and one of the three members of KEiiNO. Also concerts in 2013 and 2014.",
       "media": [{ "label": "Hjertet tar'kke feil", "url": "https://open.spotify.com/track/6SBNOHziguaLmTzBkSYGwH", "poster": "https://i.scdn.co/image/ab67616d00001e023f065583801cd08666e8257e" }],
       "site": "jonasbarsten.com",
       "category": "music",
       "status": "one-off",
-      "summary": "Drums on the single Hjertet tar'kke feil.",
+      "summary": "Drummer",
       "years": "2013–2015",
       "releases": [{ "title": "Hjertet tar'kke feil", "year": "2015", "url": "https://open.spotify.com/album/2a6HV3iv5tC5xd4HP4Bb5H", "cover": "/covers/hjertet-tarkke-feil.jpg" }]
     },
@@ -506,12 +506,12 @@
       "id": "anna-melkild",
       "badges": ["studio"],
       "name": "Anna Melkild",
-      "about": "Anna Melkild is one half of the duo Sassybeat.",
+      "about": "Drums on the recording I'm Alive. Anna Melkild is one half of the duo Sassybeat.",
       "media": [{ "label": "I'm Alive", "url": "https://www.youtube.com/watch?v=CTdvP_Dx7wY" }],
       "site": "jonasbarsten.com",
       "category": "music",
       "status": "one-off",
-      "summary": "Drums on the recording I'm Alive.",
+      "summary": "Drummer",
       "years": "2014"
     },
     {
@@ -580,8 +580,8 @@
       "site": "jonasbarsten.com",
       "category": "music",
       "status": "one-off",
-      "summary": "Musician in a stage performance from Litteraturhuset in Oslo, with authors reading to music composed by Sandra Kolstad.",
-      "about": "The Political Body (Den politiske kroppen) was commissioned for Litteraturhuset's tenth anniversary in 2017, with texts by Édouard Louis, Athena Farrokhzad and Kristina Leganger Iversen, and performed with Sandra Kolstad. Later performed in Paris in 2018 and at Bozar in Brussels in 2019.",
+      "summary": "Musician",
+      "about": "A stage performance from Litteraturhuset in Oslo, with authors reading to music composed by Sandra Kolstad. The Political Body (Den politiske kroppen) was commissioned for Litteraturhuset's tenth anniversary in 2017, with texts by Édouard Louis, Athena Farrokhzad and Kristina Leganger Iversen, and performed with Sandra Kolstad. Later performed in Paris in 2018 and at Bozar in Brussels in 2019.",
       "years": "2017–2019",
       "media": [{ "label": "The Political Body, part 1: Édouard Louis and Sandra Kolstad", "url": "https://www.youtube.com/watch?v=cTQj05h2INA" }]
     },
@@ -600,11 +600,11 @@
       "id": "jimmy-smash",
       "badges": ["live"],
       "name": "Jimmy Smash",
-      "about": "Duo from Fredrikstad: Mikkel Graham Guttormsen and Håvard Lyngstad. Concerts include by:Larm, Trondheim Calling and Månefestivalen.",
+      "about": "Duo from Fredrikstad: Mikkel Graham Guttormsen and Håvard Lyngstad. Drums with sample pad and backing tracks. Concerts include by:Larm, Trondheim Calling and Månefestivalen.",
       "site": "jonasbarsten.com",
       "category": "music",
       "status": "ended",
-      "summary": "Drummer, with sample pad and backing tracks",
+      "summary": "Drummer",
       "years": "2017–2019"
     },
     {
@@ -613,8 +613,8 @@
       "site": "jonasbarsten.com",
       "category": "music",
       "status": "ended",
-      "summary": "Musical director for the live show",
-      "about": "Not on stage.",
+      "summary": "Musical director",
+      "about": "For the live show. Not on stage.",
       "years": "2018–2019"
     },
     {
@@ -665,21 +665,21 @@
       "id": "rydin",
       "badges": ["live", "studio"],
       "name": "Rydin",
-      "about": "Rydin is the solo project of the singer and pianist Andrea Rydin Berge.",
+      "about": "Rydin is the solo project of the singer and pianist Andrea Rydin Berge. Drums on concerts in 2014, among them Øyanatt, and percussion in the studio in 2016.",
       "site": "jonasbarsten.com",
       "category": "music",
       "status": "ended",
-      "summary": "Drummer on concerts in 2014, among them Øyanatt, and percussion in the studio in 2016.",
+      "summary": "Drummer and percussionist",
       "years": "2014–2016"
     },
     {
       "id": "julian-skar",
       "name": "Julian Skar",
-      "about": "Julian Skar is a composer and musician who writes for theatre, dance and opera.",
+      "about": "Julian Skar is a composer and musician who writes for theatre, dance and opera. Percussion in a three-day workshop for the musical Sukker at Dramatikkens hus in Oslo.",
       "site": "jonasbarsten.com",
       "category": "music",
       "status": "one-off",
-      "summary": "Percussion in a three-day workshop for the musical Sukker at Dramatikkens hus in Oslo.",
+      "summary": "Percussionist",
       "years": "2014"
     },
     {
@@ -767,8 +767,8 @@
       "site": "jonasbarsten.com",
       "category": "music",
       "status": "ended",
-      "summary": "Drummer in the house band at Ronny Haugelands Bingo at Blå in Oslo, about every other Wednesday.",
-      "about": "From September 2010 to June 2015.",
+      "summary": "Drummer",
+      "about": "In the house band at Ronny Haugelands Bingo at Blå in Oslo, about every other Wednesday, from September 2010 to June 2015.",
       "years": "2010–2015"
     },
     {
@@ -778,8 +778,8 @@
       "site": "jonasbarsten.com",
       "category": "music",
       "status": "ended",
-      "summary": "Drums and electronics, with live effects and live sampling in Ableton Live and Max.",
-      "about": "A trio working between classical, electronic and improvised music.",
+      "summary": "Drums and electronics",
+      "about": "A trio working between classical, electronic and improvised music. Live effects and live sampling in Ableton Live and Max.",
       "years": "2008–2013"
     },
     {
@@ -840,8 +840,8 @@
       "site": "jonasbarsten.com",
       "category": "music",
       "status": "ended",
-      "summary": "Samples, drums and live effects in the band of the artist Mads With, formed at the University of Agder.",
-      "about": "Toured Norway in February and March 2010: 18 concerts in 16 towns over 26 days. Played in Copenhagen and Roskilde in October 2010."
+      "summary": "Samples, drums and live effects",
+      "about": "The band of the artist Mads With, formed at the University of Agder. Toured Norway in February and March 2010: 18 concerts in 16 towns over 26 days. Played in Copenhagen and Roskilde in October 2010."
     },
     {
       "id": "gypsy-lou",
@@ -851,8 +851,8 @@
       "site": "jonasbarsten.com",
       "category": "music",
       "status": "ended",
-      "summary": "Drummer in the band of the singer Lisa Nybrott, formed at the University of Agder.",
-      "about": "Toured in the autumn of 2009, between 22 October and 7 November: Hamar, Gjøvik, Skien, Oslo and Trondheim."
+      "summary": "Drummer",
+      "about": "The band of the singer Lisa Nybrott, formed at the University of Agder. Toured in the autumn of 2009, between 22 October and 7 November: Hamar, Gjøvik, Skien, Oslo and Trondheim."
     },
     {
       "id": "lean-mean-jazz-machine",
@@ -871,8 +871,8 @@
       "site": "jonasbarsten.com",
       "category": "music",
       "status": "one-off",
-      "summary": "Drummer on the tour of the jazz programme at Sund Folkehøgskole: two weeks of concerts across Norway.",
-      "about": "Eleven concerts of the students' own compositions and standards, from Nattergalen in Trondheim on 25 March 2008 to Kulturhuset in Bjugn on 7 April, by way of Ålesund, Volda, Bergen, Stord, Haugesund, Oslo and Lillehammer.",
+      "summary": "Drummer",
+      "about": "The tour of the jazz programme at Sund Folkehøgskole: two weeks of concerts across Norway. Eleven concerts of the students' own compositions and standards, from Nattergalen in Trondheim on 25 March 2008 to Kulturhuset in Bjugn on 7 April, by way of Ålesund, Volda, Bergen, Stord, Haugesund, Oslo and Lillehammer.",
       "years": "2008"
     },
     {
@@ -883,18 +883,19 @@
       "site": "jonasbarsten.com",
       "category": "music",
       "status": "ended",
-      "summary": "Drums and percussion in a Latin band in Kristiansand."
+      "summary": "Drums and percussion",
+      "about": "A Latin band in Kristiansand."
     },
     {
       "id": "onskekvist",
       "badges": ["live", "studio"],
       "years": "2010",
       "name": "ÖNCZkekvist",
-      "about": "A 2010 project between young improvising musicians from Austria, Norway and the Czech Republic, ending with a concert at ORF RadioKulturhaus in Vienna.",
+      "about": "A European free improvisation orchestra: a 2010 project between young improvising musicians from Austria, Norway and the Czech Republic, ending with a concert at ORF RadioKulturhaus in Vienna.",
       "site": "jonasbarsten.com",
       "category": "music",
       "status": "ended",
-      "summary": "Drums and electronics in a European free improvisation orchestra.",
+      "summary": "Drums and electronics",
       "releases": [{ "title": "ÖNCZkekvist", "year": "2010", "url": "https://www.discogs.com/release/2596315", "cover": "/covers/onczkekvist.jpg" }]
     },
     {
@@ -904,7 +905,8 @@
       "site": "jonasbarsten.com",
       "category": "music",
       "status": "ended",
-      "summary": "Drums and electronics in improvised concerts with, among others, Eivind Aarset, Bendik Hofseth, Jan Bang, Terje Evensen, Kjetil Husebø and Alex Gunia."
+      "summary": "Drums and electronics",
+      "about": "Improvised concerts with, among others, Eivind Aarset, Bendik Hofseth, Jan Bang, Terje Evensen, Kjetil Husebø and Alex Gunia."
     },
     {
       "id": "other-projects",
@@ -924,8 +926,8 @@
       "site": "jonasbarsten.com",
       "category": "music",
       "status": "ended",
-      "summary": "Drummer with Bodil Niska, Egil Kapstad, Hilde Hefte, Per Husby, Geir Wentzel, Øyvind Nypan and Michael Aadal, among others, while studying at the University of Agder.",
-      "about": "Ran his own concert series, nå:jazz, and was responsible for productions at a jazz club. Also the duo DJ Inti, with drums sampled live in sync with the DJ (2010), the Christmas sessions of Kristiansand Jazzklubb, a band for Knokkelrock in 2010 and 2011, a concert with Monica Severinsen (2009) and the student ensemble Bom Bom (2008).",
+      "summary": "Drummer",
+      "about": "With Bodil Niska, Egil Kapstad, Hilde Hefte, Per Husby, Geir Wentzel, Øyvind Nypan and Michael Aadal, among others, while studying at the University of Agder. Ran his own concert series, nå:jazz, and was responsible for productions at a jazz club. Also the duo DJ Inti, with drums sampled live in sync with the DJ (2010), the Christmas sessions of Kristiansand Jazzklubb, a band for Knokkelrock in 2010 and 2011, a concert with Monica Severinsen (2009) and the student ensemble Bom Bom (2008).",
       "years": "2008–2011"
     },
     {
@@ -946,8 +948,8 @@
       "site": "jonasbarsten.com",
       "category": "music",
       "status": "ended",
-      "summary": "Drums, percussion and programming on records and commissions.",
-      "about": "On Until Death by Emily and Thor by Thor (2012), and Let's be Light by let's be light (2015). Drums on music for commercials (2014–2015), percussion for Kleiv (2016) and on Ina Wroldsen's Strongest (2017). Live backing tracks for Kokkos (2011).",
+      "summary": "Drums, percussion and programming",
+      "about": "On records and commissions: On Until Death by Emily and Thor by Thor (2012), and Let's be Light by let's be light (2015). Drums on music for commercials (2014–2015), percussion for Kleiv (2016) and on Ina Wroldsen's Strongest (2017). Live backing tracks for Kokkos (2011).",
       "years": "2011–2017"
     },
     {
@@ -1026,8 +1028,8 @@
       "site": "jonasbarsten.com",
       "category": "music",
       "status": "one-off",
-      "summary": "Master's thesis at the Norwegian Academy of Music: drums with electronics controlled by sensors on a dancer.",
-      "about": "The piece is called Sound Picking: composition, programming, drums and electronics, with dancers Anette Boge and Hedvig Bang. Presented at Musikkteknologidagene in 2012. The sensors were bought with support from Frifond musikk.",
+      "summary": "Master's thesis",
+      "about": "At the Norwegian Academy of Music: drums with electronics controlled by sensors on a dancer. The piece is called Sound Picking: composition, programming, drums and electronics, with dancers Anette Boge and Hedvig Bang. Presented at Musikkteknologidagene in 2012. The sensors were bought with support from Frifond musikk.",
       "years": "2011–2013",
       "links": [{ "label": "site", "url": "https://drumsandelectronics.com" }]
     },
@@ -1039,8 +1041,8 @@
       "category": "music",
       "status": "one-off",
       "years": "2017–2018",
-      "summary": "Keyboards and percussion on a live album recorded at Parkteatret in Oslo in 2017 and released in 2018.",
-      "about": "The first in Pekula's series of commissioned pieces, made for the venue's 15th anniversary. Music by Simen Følstad Nilsen, Axel Skalstad and Erlend Mokkelbost. Performed behind curtains with the musicians' names kept secret: Axel Skalstad, Ellen Brekken, Marte Eberson, Simen Følstad Nilsen, Gunhild Ramsay Kristoffersen and Jonas Barsten.",
+      "summary": "Keyboards and percussion",
+      "about": "On a live album recorded at Parkteatret in Oslo in 2017 and released in 2018. The first in Pekula's series of commissioned pieces, made for the venue's 15th anniversary. Music by Simen Følstad Nilsen, Axel Skalstad and Erlend Mokkelbost. Performed behind curtains with the musicians' names kept secret: Axel Skalstad, Ellen Brekken, Marte Eberson, Simen Følstad Nilsen, Gunhild Ramsay Kristoffersen and Jonas Barsten.",
       "releases": [{ "title": "Live Vol. 1 Arp", "year": "2018", "url": "https://open.spotify.com/album/34Gjl0sVzZzrw0MpC0wiaa", "cover": "/covers/live-vol-1-arp.jpg" }],
       "links": [{ "label": "release page", "url": "https://www.pekula.no/releases/pekula-vol-1-arp" }],
       "media": [{ "label": "Pekula Vol. 1: ARP", "url": "https://www.youtube.com/watch?v=WpIT8G1pcow" }]
@@ -1049,11 +1051,11 @@
       "id": "kyss-av-munch",
       "badges": ["live"],
       "name": "Munchs Kyss",
-      "about": "A dance production by Plire Multi Dance, with choreography by Tharan Revfem and music by Frøy Aagre, first performed at Støperiet in Tønsberg on 26 June 2013.",
+      "about": "Commissioned work for Vestfoldfestspillene, also covering the technical setup for video, sound and sync. A dance production by Plire Multi Dance, with choreography by Tharan Revfem and music by Frøy Aagre, first performed at Støperiet in Tønsberg on 26 June 2013.",
       "site": "jonasbarsten.com",
       "category": "music",
       "status": "one-off",
-      "summary": "Commissioned work for Vestfoldfestspillene: drums, percussion, electronics, and the technical setup for video, sound and sync.",
+      "summary": "Drums, percussion and electronics",
       "years": "2013"
     },
     {
@@ -1063,7 +1065,8 @@
       "site": "jonasbarsten.com",
       "category": "music",
       "status": "one-off",
-      "summary": "Composed and produced all the music for the NRK broadcast.",
+      "summary": "Composer and producer",
+      "about": "All the music for the NRK broadcast.",
       "years": "2011"
     },
     {
@@ -1073,8 +1076,8 @@
       "site": "jonasbarsten.com",
       "category": "music",
       "status": "one-off",
-      "summary": "Music for student films at the film school at Lillehammer University College.",
-      "about": "Among them Kongsmenn (2011). Also music for a documentary in 2016."
+      "summary": "Composer",
+      "about": "Music for student films at the film school at Lillehammer University College, among them Kongsmenn (2011). Also music for a documentary in 2016."
     },
     {
       "id": "dolajazz-prize",
