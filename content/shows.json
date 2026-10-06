@@ -1056,8 +1056,8 @@
     {"date":"2018-11-17","venue":"USF Verftet","place":"Bergen"},
     {"date":"2018-10-19","venue":"Parkteatret","place":"Oslo"}
   ],
-  "k-391": [
-    {"date":"2018-11-15","event":"Senkveld (TV 2)","place":"Oslo","note":"with Wyclef Jean"}
+  "wyclef-jean": [
+    {"date":"2018-11-15","event":"Senkveld (TV 2)","place":"Oslo","note":"with K-391"}
   ],
   "hanne-hukkelberg": [
     {"date":"2019-11-15","event":"Bø Jazzklubb","venue":"Parketten","place":"Bø"},
