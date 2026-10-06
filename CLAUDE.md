@@ -38,5 +38,5 @@ This repo is public.
 ## Rules
 
 - Nothing in the Music section has a `url`: videos and tracks go in `media`, other pages in `links`.
-- Work on `dev`. Never push to `master`; the owner merges and approves the deploy.
+- Work on `dev`. Never push to `main`; the owner merges and approves the deploy.
 - Keep the README up to date.

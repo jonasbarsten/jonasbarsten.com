@@ -66,8 +66,8 @@ Work happens on `dev`; a push to `dev` or a pull request runs
 `.github/workflows/ci.yml`, which checks and builds the content with
 byjoba-web's engine at its `main`.
 
-Merging to `master` runs `.github/workflows/deploy.yml` in the GitHub
-environment `production`, which only `master` may use and which waits for
+Merging to `main` runs `.github/workflows/deploy.yml` in the GitHub
+environment `production`, which only `main` may use and which waits for
 the owner's approval in the Actions tab. It checks and builds the content,
 then `aws s3 sync --delete` to the site's bucket, a CloudFront
 invalidation, and an IndexNow submission of the indexed pages with the
@@ -79,5 +79,5 @@ distribution.
 
 A change to the engine reaches this site on its next deploy.
 
-`master` is protected: it cannot be deleted or force-pushed, and only the
+`main` is protected: it cannot be deleted or force-pushed, and only the
 owner may update it. Workflows from outside contributors need approval.

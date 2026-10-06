@@ -1,14 +1,14 @@
 name: deploy
 
-# On master: check and build the content with byjoba-web's engine, then sync
+# On main: check and build the content with byjoba-web's engine, then sync
 # the pages to jonasbarsten.com's bucket and invalidate its distribution.
-# The job runs in the `production` environment, which only master may use and
+# The job runs in the `production` environment, which only main may use and
 # which waits for the owner's approval; the AWS role trusts only that
 # environment. The bucket and distribution belong to byjoba-iac's web stack.
 
 on:
   push:
-    branches: [master]
+    branches: [main]
 
 permissions:
   contents: read

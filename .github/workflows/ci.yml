@@ -1,7 +1,7 @@
 name: ci
 
 # Checks the content with the engine: byjoba-web's content tests, then a
-# build. Invalid content fails here, before it can reach master.
+# build. Invalid content fails here, before it can reach main.
 
 on:
   pull_request:
