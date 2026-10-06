@@ -7,19 +7,28 @@
       "intro": "Drummer and musical director. Also creates tools and rooms for music.",
       "jsonLd": {
         "@context": "https://schema.org",
-        "@type": "Person",
-        "name": "Jonas Barsten",
+        "@type": "ProfilePage",
+        "@id": "https://jonasbarsten.com/#profile",
         "url": "https://jonasbarsten.com/",
-        "jobTitle": ["Drummer", "Musical director", "Software developer"],
-        "address": { "@type": "PostalAddress", "addressLocality": "Oslo", "addressCountry": "NO" },
-        "alumniOf": { "@type": "CollegeOrUniversity", "name": "Norwegian Academy of Music" },
-        "knowsAbout": ["Drums", "Musical direction", "Ableton Live", "Max for Live", "Software development"],
-        "sameAs": [
-          "https://byjoba.com/",
-          "https://www.ableton.com/en/certified-training/jonas-barsten/",
-          "https://github.com/jonasbarsten"
-        ]
+        "isPartOf": { "@id": "https://jonasbarsten.com/#website" },
+        "mainEntity": {
+          "@type": "Person",
+          "@id": "https://jonasbarsten.com/#person",
+          "name": "Jonas Barsten",
+          "url": "https://jonasbarsten.com/",
+          "description": "Drummer, musical director and developer in Oslo.",
+          "jobTitle": ["Drummer", "Musical director", "Software developer"],
+          "address": { "@type": "PostalAddress", "addressLocality": "Oslo", "addressCountry": "NO" },
+          "alumniOf": { "@type": "CollegeOrUniversity", "name": "Norwegian Academy of Music" },
+          "knowsAbout": ["Drums", "Musical direction", "Ableton Live", "Max for Live", "Software development"],
+          "sameAs": [
+            "https://www.ableton.com/en/certified-training/jonas-barsten/",
+            "https://github.com/jonasbarsten"
+          ]
+        }
       },
+      "shareImage": { "path": "/share.png", "width": 1200, "height": 630, "alt": "Jonas Barsten, musician and developer in Oslo" },
+      "indexNowKey": "9dcf30a17e6c4294e15dd5d5f4234273",
       "turnstileSiteKey": "0x4AAAAAAFNjFT1LyWQybR_q",
       "related": ["byjoba.com"],
       "disclaimer": "This list was put together with the help of AI searching my calendar, email and files, so it may contain errors.",

@@ -37,7 +37,7 @@ byjoba-api.
 | `content/projects.json` | The site (`sites."jonasbarsten.com"`), its sections, and every entry. |
 | `content/shows.json` | The shows played, per entry id. |
 | `content/places.json` | The countries, cities, events and venues the shows name. |
-| `static/jonasbarsten.com/` | Files copied into the site as they are: record covers, PDFs. |
+| `static/jonasbarsten.com/` | Files copied into the site as they are: record covers, PDFs, and `share.png`, the 1200×630 link-preview image the site's `shareImage` names. |
 | `legacy/` | Earlier versions of the site, kept for the record and never published: `2025-placeholder/` is the page served from the old AWS account's `jonasbarsten-client` bucket until 2026. The 2019 site is in this repo's git history. |
 
 The content model (every field, and how shows and places work) is in
@@ -69,8 +69,9 @@ byjoba-web's engine at its `main`.
 Merging to `master` runs `.github/workflows/deploy.yml` in the GitHub
 environment `production`, which only `master` may use and which waits for
 the owner's approval in the Actions tab. It checks and builds the content,
-then `aws s3 sync --delete` to the site's bucket and a CloudFront
-invalidation. The workflow assumes the role in the repository variable
+then `aws s3 sync --delete` to the site's bucket, a CloudFront
+invalidation, and an IndexNow submission of the indexed pages with the
+site's `indexNowKey` (a refused submission is a warning only). The workflow assumes the role in the repository variable
 `AWS_DEPLOY_ROLE_ARN` (`byjoba-web-github-deploy-jonasbarsten`, from
 byjoba-iac's `ByjobaWebDeploy-jonasbarsten`), which trusts only this repo's
 `production` environment and can reach only this site's bucket and
