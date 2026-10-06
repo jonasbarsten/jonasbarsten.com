@@ -142,7 +142,7 @@
       "site": "jonasbarsten.com",
       "category": "music",
       "status": "active",
-      "summary": "Drummer and musical director",
+      "summary": "Musical director and drummer",
       "about": "Matoma is the artist name of Tom Stræte Lagergren, a producer and DJ. Musical director from 2023. Concerts include Tysnesfest, Stavernfestivalen and Opptur in 2019, and VG-lista in 2024.",
       "years": "2019–",
       "media": [{ "label": "WOW, with Emma Steinbakken, live on NRK Lindmo", "url": "https://www.youtube.com/watch?v=u5umRNr2duw" }]
@@ -521,7 +521,8 @@
       "site": "jonasbarsten.com",
       "category": "music",
       "status": "one-off",
-      "summary": "Drums on the recording Visjon.",
+      "summary": "Drummer",
+      "about": "Drums on the recording Visjon.",
       "years": "2014"
     },
     {
@@ -646,7 +647,7 @@
       "site": "jonasbarsten.com",
       "category": "music",
       "status": "ended",
-      "summary": "One of the two percussionists",
+      "summary": "Percussionist",
       "about": "A multimedia concert for two percussionists by Peter Baden, started by Rikskonsertene: a space journey with lasers, video and surround sound, played for schools and at festivals. School concerts, Parkteatret in Oslo, and Lithuania.",
       "years": "2016–2018"
     },
@@ -689,8 +690,8 @@
       "site": "jonasbarsten.com",
       "category": "music",
       "status": "ended",
-      "summary": "Drummer in his live band.",
-      "about": "Singer and songwriter from Oslo, and a member of Atlanter. The concerts followed his album Opsi.",
+      "summary": "Drummer",
+      "about": "Singer and songwriter from Oslo, and a member of Atlanter. Drums in his live band; the concerts followed his album Opsi.",
       "years": "2019"
     },
     {
@@ -734,8 +735,8 @@
       "site": "jonasbarsten.com",
       "category": "music",
       "status": "ended",
-      "summary": "Drummer, on electronic pads",
-      "about": "FRIKAR i fossen: Draumefangaren, a walk-through performance by the dance company Frikar in the Åbjøra gorge near Aurdal in Valdres, choreographed by Hallgrim Hansegård with music by Bjarne Kvinnsland. Performances in the summers of 2018 and 2019.",
+      "summary": "Drummer",
+      "about": "FRIKAR i fossen: Draumefangaren, a walk-through performance by the dance company Frikar in the Åbjøra gorge near Aurdal in Valdres, choreographed by Hallgrim Hansegård with music by Bjarne Kvinnsland. Drums on electronic pads. Performances in the summers of 2018 and 2019.",
       "years": "2018–2019"
     },
     {
@@ -819,7 +820,7 @@
       "site": "jonasbarsten.com",
       "category": "music",
       "status": "ended",
-      "summary": "Drums, samples and percussion."
+      "summary": "Drums, percussion and samples."
     },
     {
       "id": "ronnie-jacobsen",
@@ -829,7 +830,7 @@
       "site": "jonasbarsten.com",
       "category": "music",
       "status": "ended",
-      "summary": "Drums, samples and percussion.",
+      "summary": "Drums, percussion and samples.",
       "about": "Blues guitarist with albums on Grappa's labels. Also engineer and drummer on the pre-production of an album."
     },
     {
@@ -840,7 +841,7 @@
       "site": "jonasbarsten.com",
       "category": "music",
       "status": "ended",
-      "summary": "Samples, drums and live effects",
+      "summary": "Drums, samples and live effects",
       "about": "The band of the artist Mads With, formed at the University of Agder. Toured Norway in February and March 2010: 18 concerts in 16 towns over 26 days. Played in Copenhagen and Roskilde in October 2010."
     },
     {
@@ -862,7 +863,8 @@
       "site": "jonasbarsten.com",
       "category": "music",
       "status": "ended",
-      "summary": "Drummer in a jazz quintet."
+      "summary": "Drummer",
+      "about": "A jazz quintet."
     },
     {
       "id": "sund-turneen-2008",
@@ -937,7 +939,7 @@
       "site": "jonasbarsten.com",
       "category": "music",
       "status": "ended",
-      "summary": "Musician in stage productions.",
+      "summary": "Musician",
       "about": "In the band of Press Play, a musical at the University of Agder (2009). Music with the theatre company Stella Polaris and Jørgen Munkeby in Larvik (2014). Percussion in Sukker at Dramatikkens hus and in the children's performance TRE, on a school tour and at Moldejazz (2014–2015). Recorded for Mummitrollet og det usynlige barnet at Oslo Nye Teater, music by Julian Skar (2015). Music technology for Ingvild Langgård's dance work Cosmic Body (2015–2017). Drums in Frikar's Draumefangaren at Åbjøra in Valdres (2018).",
       "years": "2009–2018"
     },
@@ -1041,7 +1043,7 @@
       "category": "music",
       "status": "one-off",
       "years": "2017–2018",
-      "summary": "Keyboards and percussion",
+      "summary": "Percussion and keyboards",
       "about": "On a live album recorded at Parkteatret in Oslo in 2017 and released in 2018. The first in Pekula's series of commissioned pieces, made for the venue's 15th anniversary. Music by Simen Følstad Nilsen, Axel Skalstad and Erlend Mokkelbost. Performed behind curtains with the musicians' names kept secret: Axel Skalstad, Ellen Brekken, Marte Eberson, Simen Følstad Nilsen, Gunhild Ramsay Kristoffersen and Jonas Barsten.",
       "releases": [{ "title": "Live Vol. 1 Arp", "year": "2018", "url": "https://open.spotify.com/album/34Gjl0sVzZzrw0MpC0wiaa", "cover": "/covers/live-vol-1-arp.jpg" }],
       "links": [{ "label": "release page", "url": "https://www.pekula.no/releases/pekula-vol-1-arp" }],
