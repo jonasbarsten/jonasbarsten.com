@@ -187,11 +187,11 @@
       "id": "luna",
       "badges": ["live"],
       "name": "L.U:N.A",
-      "about": "L.U:N.A is the artist name of Mia Roussel.",
+      "about": "L.U:N.A is the artist name of Mia Roussel. Concerts at Øyafestivalen and at Parkteatret in Oslo.",
       "site": "jonasbarsten.com",
       "category": "music",
       "status": "one-off",
-      "summary": "Drummer. Concerts at Øyafestivalen and at Parkteatret in Oslo.",
+      "summary": "Drummer",
       "years": "2022–2023"
     },
     {
@@ -545,11 +545,11 @@
       "id": "amanda-delara",
       "badges": ["live"],
       "name": "Amanda Delara",
-      "about": "Amanda Delara is an Iranian-Norwegian artist.",
+      "about": "Amanda Delara is an Iranian-Norwegian artist. Concerts include P3aksjonen in Trondheim and P3 Julekonsert at Sentrum Scene.",
       "site": "jonasbarsten.com",
       "category": "music",
       "status": "ended",
-      "summary": "Stand-in drummer. Concerts include P3aksjonen in Trondheim and P3 Julekonsert at Sentrum Scene.",
+      "summary": "Stand-in drummer",
       "years": "2018"
     },
     {
@@ -582,18 +582,19 @@
       "site": "jonasbarsten.com",
       "category": "music",
       "status": "ended",
-      "summary": "Drummer. Concerts in Norway, and at Celtic Connections in Glasgow.",
+      "summary": "Drummer",
+      "about": "Concerts in Norway, and at Celtic Connections in Glasgow.",
       "years": "2018–2019"
     },
     {
       "id": "jimmy-smash",
       "badges": ["live"],
       "name": "Jimmy Smash",
-      "about": "Duo from Fredrikstad: Mikkel Graham Guttormsen and Håvard Lyngstad.",
+      "about": "Duo from Fredrikstad: Mikkel Graham Guttormsen and Håvard Lyngstad. Concerts include by:Larm, Trondheim Calling and Månefestivalen.",
       "site": "jonasbarsten.com",
       "category": "music",
       "status": "ended",
-      "summary": "Drummer, with sample pad and backing tracks. Concerts include by:Larm, Trondheim Calling and Månefestivalen.",
+      "summary": "Drummer, with sample pad and backing tracks",
       "years": "2017–2019"
     },
     {
@@ -602,7 +603,8 @@
       "site": "jonasbarsten.com",
       "category": "music",
       "status": "ended",
-      "summary": "Musical director for the live show. Not on stage.",
+      "summary": "Musical director for the live show",
+      "about": "Not on stage.",
       "years": "2018–2019"
     },
     {
@@ -612,8 +614,8 @@
       "site": "jonasbarsten.com",
       "category": "music",
       "status": "ended",
-      "summary": "Stand-in drummer. Concerts include Det Norske Teatret, Varangerfestivalen and an autumn tour.",
-      "about": "Songwriter and artist from Oslo.",
+      "summary": "Stand-in drummer",
+      "about": "Songwriter and artist from Oslo. Concerts include Det Norske Teatret, Varangerfestivalen and an autumn tour.",
       "years": "2016–2017"
     },
     {
@@ -634,8 +636,8 @@
       "site": "jonasbarsten.com",
       "category": "music",
       "status": "ended",
-      "summary": "One of the two percussionists. School concerts, Parkteatret in Oslo, and Lithuania.",
-      "about": "A multimedia concert for two percussionists by Peter Baden, started by Rikskonsertene: a space journey with lasers, video and surround sound, played for schools and at festivals.",
+      "summary": "One of the two percussionists",
+      "about": "A multimedia concert for two percussionists by Peter Baden, started by Rikskonsertene: a space journey with lasers, video and surround sound, played for schools and at festivals. School concerts, Parkteatret in Oslo, and Lithuania.",
       "years": "2016–2018"
     },
     {
@@ -696,11 +698,11 @@
       "id": "silja-sol",
       "badges": ["live"],
       "name": "Silja Sol",
-      "about": "Artist from Bergen who sings in Norwegian.",
+      "about": "Artist from Bergen who sings in Norwegian. Concerts at Øyanatt and Salt in Oslo, and work on the backing tracks.",
       "site": "jonasbarsten.com",
       "category": "music",
       "status": "ended",
-      "summary": "Drummer. Concerts at Øyanatt and Salt in Oslo, and work on the backing tracks.",
+      "summary": "Drummer",
       "years": "2023"
     },
     {
@@ -1068,7 +1070,8 @@
       "site": "jonasbarsten.com",
       "category": "live-teaching",
       "status": "active",
-      "summary": "Teaches Live, Push and Max for Live. The only certified trainer in Norway.",
+      "summary": "Teaches Live, Push and Max for Live",
+      "about": "The only certified trainer in Norway.",
       "years": "2018–",
       "url": "https://www.ableton.com/en/certified-training/jonas-barsten/"
     },
@@ -1244,7 +1247,8 @@
       "site": "jonasbarsten.com",
       "category": "founder",
       "status": "in-development",
-      "summary": "Unannounced. TypeScript monorepo on AWS with CDK and DynamoDB.",
+      "summary": "Unannounced",
+      "about": "TypeScript monorepo on AWS with CDK and DynamoDB.",
       "role": "co-founder"
     },
     {
@@ -1352,7 +1356,8 @@
       "site": "jonasbarsten.com",
       "category": "software-hardware",
       "status": "active",
-      "summary": "What I make on my own initiative: apps and services, music tools, and hardware. Listed at byjoba.com.",
+      "summary": "What I make on my own initiative: apps and services, music tools, and hardware",
+      "about": "Listed at byjoba.com.",
       "url": "https://byjoba.com/"
     },
     {
@@ -1520,7 +1525,8 @@
       "site": "jonasbarsten.com",
       "category": "advocacy",
       "status": "ended",
-      "summary": "On the board of the Serendip festival at the Norwegian Academy of Music (2011) and of Piknik i Parken (2014–2016). Jury member for the blues category of Spellemannprisen 2017.",
+      "summary": "Board and jury member",
+      "about": "On the board of the Serendip festival at the Norwegian Academy of Music (2011) and of Piknik i Parken (2014–2016). Jury member for the blues category of Spellemannprisen 2017.",
       "years": "2011–2017"
     },
     {
