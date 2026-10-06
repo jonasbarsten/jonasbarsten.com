@@ -2,7 +2,7 @@
   "sites": {
     "jonasbarsten.com": {
       "title": "Jonas Barsten",
-      "pageTitle": "Jonas Barsten — musician and developer in Oslo",
+      "pageTitle": "Jonas Barsten — drummer and musical director in Oslo",
       "description": "Jonas Barsten is a drummer, musical director and developer in Oslo. A list of his work in music, teaching, spaces, installations, software and hardware.",
       "intro": "Drummer and musical director. Also creates tools and rooms for music.",
       "jsonLd": {
@@ -31,7 +31,7 @@
           ]
         }
       },
-      "shareImage": { "path": "/share.png", "width": 1200, "height": 630, "alt": "Jonas Barsten, musician and developer in Oslo" },
+      "shareImage": { "path": "/share.png", "width": 1200, "height": 630, "alt": "Jonas Barsten. Drummer and musical director. Also creates tools and rooms for music." },
       "indexNowKey": "9dcf30a17e6c4294e15dd5d5f4234273",
       "counterSince": "2026-10-06",
       "turnstileSiteKey": "0x4AAAAAAFNjFT1LyWQybR_q",
