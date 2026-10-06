@@ -90,11 +90,11 @@
       "name": "Alan Walker",
       "site": "jonasbarsten.com",
       "category": "music",
-      "status": "ended",
+      "status": "active",
       "summary": "Musical director and drummer.",
       "about": "Alan Walker is a Norwegian-English artist, DJ and producer. Full time from 2016 to 2021, with single shows after that. Concerts include Bergen in 2016, the EBBA Awards in Groningen and New York in 2017, Spellemann, Coachella, and Beijing during the Norwegian state visit to China in 2018, and in 2019 the KKBOX Music Awards in Taipei and the Aviation Tour in Chengdu, Shanghai, Foshan, Oslo Spektrum, Bengaluru, Mumbai and Delhi.",
       "releases": [{ "title": "Ina Wroldsen: Strongest (Alan Walker Remix)", "year": "2017", "url": "https://open.spotify.com/album/3d1YhgZvB8NLZLakA5l4rk", "cover": "/covers/strongest-alan-walker-remix.jpg" }],
-      "years": "2016–2024",
+      "years": "2016–",
       "media": [
         { "label": "Faded, live", "url": "https://www.youtube.com/watch?v=mIxlvVlOIS0" },
         { "label": "Alone, live", "url": "https://www.youtube.com/watch?v=Q9uat3ticA8" },
@@ -116,10 +116,10 @@
       "name": "Matoma",
       "site": "jonasbarsten.com",
       "category": "music",
-      "status": "ended",
+      "status": "active",
       "summary": "Drummer, and musical director from 2023.",
       "about": "Matoma is the artist name of Tom Stræte Lagergren, a producer and DJ. Concerts include Tysnesfest, Stavernfestivalen and Opptur in 2019, and VG-lista in 2024.",
-      "years": "2019–2024",
+      "years": "2019–",
       "media": [{ "label": "WOW, with Emma Steinbakken, live on NRK Lindmo", "url": "https://www.youtube.com/watch?v=u5umRNr2duw" }]
     },
     {
