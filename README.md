@@ -9,6 +9,27 @@ byjoba.com, and hosted by stacks in `byjoba-iac`.
 
 Design: `byjoba-tools/specs/2026-10-04-landing-pages-design.md`, section 8.1.
 
+## How it fits together
+
+Four other repos take part, all under `jonasbarsten` on GitHub:
+
+| Repo | What it does for this site |
+|---|---|
+| [byjoba-web](https://github.com/jonasbarsten/byjoba-web) (public) | The engine: a dependency-free Node generator that turns this repo's `content/` and `static/` into the pages, plus the stylesheet, the contact page script and the content tests. It also holds byjoba.com's own content. This repo's workflows check it out at `main`. |
+| byjoba-iac (private) | The hosting, in AWS account `209479295726` (profile `byjoba`), eu-west-1: the `jonasbarsten.com` hosted zone (`ByjobaZone-jonasbarsten`), the site's private bucket and CloudFront distribution (`ByjobaWeb-jonasbarsten`), and the role this repo's deploy assumes (`ByjobaWebDeploy-jonasbarsten`). The domain, its us-east-1 certificate and the alias records are attached by `WEB_SITES` in its `lib/config.ts`. |
+| byjoba-api (private) | The visitor counter (`/counter.svg`) and the contact address (`/contact`). The distribution sends both paths to `api.byjoba.com/web/v1` with an `x-site: jonasbarsten.com` header, so the site has its own count. The address and the Cloudflare Turnstile secret are SSM parameters, never in a repo. |
+| byjoba-tools (private) | The design spec, the plans and `DOMAINS.md`. |
+
+Requests to `https://jonasbarsten.com/` go to the CloudFront distribution:
+the pages come from the bucket, and `/counter.svg` and `/contact` go on to
+byjoba-api. DNS is the Route 53 zone in the byjoba account; the domain is
+registered at Domeneshop, whose name servers point there. `jonasbarsten.no`
+stays at Domeneshop and redirects here with Domeneshop's web forwarding.
+
+So: content changes happen here, design and markup changes in byjoba-web,
+and anything about hosting, the domain or the API in byjoba-iac or
+byjoba-api.
+
 ## Layout
 
 | Path | What it is |
@@ -24,13 +45,17 @@ byjoba-web's README.
 
 ## Preview
 
-Clone byjoba-web beside this repo, then from here:
+This repo lives at `~/Development/jonasbarsten.com`, with byjoba-web at
+`~/Development/byjoba/byjoba-web`. From this repo:
 
 ```bash
-CONTENT_DIR=content node --test ../byjoba-web/site/test/content.test.mjs   # check the content
-node ../byjoba-web/site/build.mjs --content content --out dist          # build dist/jonasbarsten.com
-python3 -m http.server -d dist/jonasbarsten.com 8792
+CONTENT_DIR=content node --test ../byjoba/byjoba-web/site/test/content.test.mjs   # check the content
+node ../byjoba/byjoba-web/site/build.mjs --content content --out dist          # build dist/jonasbarsten.com
+python3 -m http.server -d dist/jonasbarsten.com 8792                           # http://localhost:8792/
 ```
+
+After a content edit, run the build again and reload. Pull byjoba-web first
+to preview with the engine the deploy will use (its `main`).
 
 Locally the visitor counter shows its alt text and the contact page cannot
 fetch the address; both are served by byjoba-api through the deployed site.
