@@ -27,7 +27,7 @@
         {
           "title": "Music",
           "category": "music",
-          "note": "Artists and bands, with my part in each. Current first, then past.",
+          "note": ["Artists and bands, with my part in each.", "Current first, then past."],
           "order": [
             "atlanter",
             "anna-lille",
