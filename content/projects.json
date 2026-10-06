@@ -2,7 +2,7 @@
   "sites": {
     "jonasbarsten.com": {
       "title": "Jonas Barsten",
-      "pageTitle": "Jonas Barsten — musician and developer in Oslo",
+      "pageTitle": "Jonas Barsten — drummer and musical director in Oslo",
       "description": "Jonas Barsten is a drummer, musical director and developer in Oslo. A list of his work in music, teaching, spaces, installations, software and hardware.",
       "intro": "Drummer and musical director. Also creates tools and rooms for music.",
       "jsonLd": {
@@ -23,11 +23,15 @@
           "knowsAbout": ["Drums", "Musical direction", "Ableton Live", "Max for Live", "Software development"],
           "sameAs": [
             "https://www.ableton.com/en/certified-training/jonas-barsten/",
-            "https://github.com/jonasbarsten"
+            "https://github.com/jonasbarsten",
+            "https://www.instagram.com/jonasbarsten/",
+            "https://www.facebook.com/jonasbarsten",
+            "https://www.linkedin.com/in/jonas-barsten",
+            "https://www.discogs.com/artist/2048302-Jonas-Barsten-Johnsen"
           ]
         }
       },
-      "shareImage": { "path": "/share.png", "width": 1200, "height": 630, "alt": "Jonas Barsten, musician and developer in Oslo" },
+      "shareImage": { "path": "/share.png", "width": 1200, "height": 630, "alt": "Jonas Barsten. Drummer and musical director. Also creates tools and rooms for music." },
       "indexNowKey": "9dcf30a17e6c4294e15dd5d5f4234273",
       "counterSince": "2026-10-06",
       "turnstileSiteKey": "0x4AAAAAAFNjFT1LyWQybR_q",
@@ -106,7 +110,7 @@
       "category": "music",
       "status": "active",
       "summary": "Musical director and drummer.",
-      "about": "Singer and songwriter from Nordfjordeid, on Propeller Recordings. Concerts include Trondheim Calling and by:Larm in 2024, Øyafestivalen, Bergenfest and Vinjerock in 2025, and Groningen in 2026.",
+      "about": "Singer and songwriter from Nordfjordeid, on Propeller Recordings. Concerts include Trondheim Calling and by:Larm in 2024, Øyafestivalen, Bergenfest and Vinjerock in 2025, and Eurosonic in 2026.",
       "media": [
         { "label": "Late to the Party, P3 Live at Kulturkirken Jakob", "url": "https://www.youtube.com/watch?v=hyUUY7UpQoo" },
         { "label": "Operahuset, P3 Live", "url": "https://www.youtube.com/watch?v=o1IUxQJ2vG8" }
