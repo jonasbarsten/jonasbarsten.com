@@ -67,7 +67,7 @@
       "status": "active",
       "summary": "Musical director and drummer.",
       "about": "Singer and songwriter from Geilo, who sings in the Hallingdal dialect. In 2015 and 2016, and again from 2021. Concerts include VG-lista at Rådhusplassen in Oslo in 2015, Rockefeller in 2016, and a tour in 2021 that ended at Byscenen in Trondheim.",
-      "media": [{ "label": "VG-lista Topp 20 at Rådhusplassen, 2015 (the full broadcast)", "url": "https://tv.nrk.no/serie/vg-lista-topp-20-tv/sesong/2015/episode/MYNT18000215" }],
+      "media": [{ "label": "VG-lista Topp 20 at Rådhusplassen, 2015 (the full broadcast)", "url": "https://tv.nrk.no/serie/vg-lista-topp-20-tv/sesong/2015/episode/MYNT18000215", "poster": "https://gfx.nrk.no/vv9fWXpMZF4KKz4yx3F3rwhElOKWlahcdiciUF5k9TnA" }],
       "years": "2015–"
     },
     {
@@ -105,7 +105,7 @@
         { "label": "Soon", "url": "https://www.youtube.com/watch?v=5x26NrfqQoA" },
         { "label": "Pike", "url": "https://www.youtube.com/watch?v=vGqLUF1fwrQ" },
         { "label": "Can't Get Away, live", "url": "https://www.youtube.com/watch?v=v0T2gI4rYiQ" },
-        { "label": "Aye", "url": "https://open.spotify.com/track/5owc6LBkOZp05yh0T0B88Q" }
+        { "label": "Aye", "url": "https://open.spotify.com/track/5owc6LBkOZp05yh0T0B88Q", "poster": "https://i.scdn.co/image/ab67616d00001e02827d41ce8620684286573002" }
       ]
     },
     {
@@ -187,7 +187,7 @@
       "status": "ended",
       "summary": "Musical director and drummer.",
       "about": "Singer and songwriter. From 2022 to 2023, with single shows after that. Concerts include a European tour as support for Aurora and by:Larm in 2022, Spot Festival and Festspillene in 2023, and Spellemann in 2026.",
-      "media": [{ "label": "by:Larm sessions 2022, part 2 (NRK)", "url": "https://tv.nrk.no/serie/nrk-scenen/sesong/2023/episode/MKDU44000223" }],
+      "media": [{ "label": "by:Larm sessions 2022, part 2 (NRK)", "url": "https://tv.nrk.no/serie/nrk-scenen/sesong/2023/episode/MKDU44000223", "poster": "https://gfx.nrk.no/hm0HLJtB5w-I6EqZ_qfv8AO5QO3zI2SWbc6Ed0E4PxbA" }],
       "years": "2022–2023"
     },
     {
@@ -231,7 +231,7 @@
         { "label": "When I Let Go, with Ane Brun, live on NRK Lindmo", "url": "https://www.youtube.com/watch?v=zS-6-ljkDfI" },
         { "label": "New Again, live at Spellemannprisen", "url": "https://www.youtube.com/watch?v=vEE3xbTYnZs" },
         { "label": "When I Let Go, at the national memorial ten years after 22 July", "url": "https://www.youtube.com/watch?v=x-oVGl3XMgQ" },
-        { "label": "Festivalsommer: Fay Wildhagen from Trænafestivalen (NRK, 2021)", "url": "https://tv.nrk.no/serie/festivalsommer/sesong/2021/episode/MKMU81000521" }
+        { "label": "Festivalsommer: Fay Wildhagen from Trænafestivalen (NRK, 2021)", "url": "https://tv.nrk.no/serie/festivalsommer/sesong/2021/episode/MKMU81000521", "poster": "https://gfx.nrk.no/3Eva9Hu4jdjQMVjqDiBKJwWEd238Wu47GJCIBJJ1RmRA" }
       ]
     },
     {
@@ -294,7 +294,7 @@
       ],
       "media": [
         { "label": "Lover Ghost", "url": "https://www.youtube.com/watch?v=ZarbFdhpIc4" },
-        { "label": "Nobody Will Laugh", "url": "https://open.spotify.com/track/62JY1S6Rro87J6azPPaeDW" }
+        { "label": "Nobody Will Laugh", "url": "https://open.spotify.com/track/62JY1S6Rro87J6azPPaeDW", "poster": "https://i.scdn.co/image/ab67616d00001e02502284ef97cc0f9048cd1600" }
       ]
     },
     {
@@ -342,7 +342,7 @@
         { "title": "Dagens Ungdom", "year": "2014", "url": "https://www.discogs.com/release/5947672", "cover": "/covers/dagens-ungdom.jpg" },
         { "title": "Naken Gris", "year": "2015", "url": "https://www.discogs.com/release/7996427", "cover": "/covers/naken-gris.jpg" }
       ],
-      "media": [{ "label": "Aldri vite", "url": "https://open.spotify.com/track/1drrtINK7WUNptzyukAilQ" }]
+      "media": [{ "label": "Aldri vite", "url": "https://open.spotify.com/track/1drrtINK7WUNptzyukAilQ", "poster": "https://i.scdn.co/image/ab67616d00001e023e7b467208fce2b1caa216f1" }]
     },
     {
       "id": "disaster-in-the-universe",
@@ -364,7 +364,7 @@
       ],
       "media": [
         { "label": "Beach House", "url": "https://www.youtube.com/watch?v=5kPWEkXuk-s" },
-        { "label": "Jada Jada", "url": "https://open.spotify.com/track/2YHClCevPhnnzrEQ0fr3Pu" }
+        { "label": "Jada Jada", "url": "https://open.spotify.com/track/2YHClCevPhnnzrEQ0fr3Pu", "poster": "https://i.scdn.co/image/ab67616d00001e022e367d46ff5422c7d29fe145" }
       ]
     },
     {
@@ -405,8 +405,8 @@
       "summary": "Drums on the album Blackwinged Night.",
       "about": "Phaedra is the music project of Ingvild Langgård; the album came out on Rune Grammofon. Drums on the track Blackwinged Night and shaker on Half Human.",
       "media": [
-        { "label": "Blackwinged Night", "url": "https://open.spotify.com/track/7aGzBEB2EEPmklPT9lnK70" },
-        { "label": "Half Human", "url": "https://open.spotify.com/track/6sAy6eXzvYzlslsojtVols" }
+        { "label": "Blackwinged Night", "url": "https://open.spotify.com/track/7aGzBEB2EEPmklPT9lnK70", "poster": "https://i.scdn.co/image/ab67616d00001e0263660ff113b73d3d674745ff" },
+        { "label": "Half Human", "url": "https://open.spotify.com/track/6sAy6eXzvYzlslsojtVols", "poster": "https://i.scdn.co/image/ab67616d00001e0263660ff113b73d3d674745ff" }
       ],
       "years": "2015",
       "releases": [{ "title": "Blackwinged Night", "year": "2015", "url": "https://www.discogs.com/master/906761", "cover": "/covers/blackwinged-night.jpg" }]
@@ -421,9 +421,9 @@
       "summary": "Drums on the album Norsk Skog.",
       "about": "On the tracks Alle har gått hjem, Uro, Ringstrøms antikvariat and Hei sol!",
       "media": [
-        { "label": "Alle har gått hjem", "url": "https://open.spotify.com/track/4w09VXYxwKeXsYe3utUHmL" },
-        { "label": "Uro", "url": "https://open.spotify.com/track/7cKxzMPxAHmSd6si0yvKPL" },
-        { "label": "Ringstrøms antikvariat", "url": "https://open.spotify.com/track/7FpbOIh21CaPsfq4nWTEgm" }
+        { "label": "Alle har gått hjem", "url": "https://open.spotify.com/track/4w09VXYxwKeXsYe3utUHmL", "poster": "https://i.scdn.co/image/ab67616d00001e02549e2b71c408fd587ffb2419" },
+        { "label": "Uro", "url": "https://open.spotify.com/track/7cKxzMPxAHmSd6si0yvKPL", "poster": "https://i.scdn.co/image/ab67616d00001e02549e2b71c408fd587ffb2419" },
+        { "label": "Ringstrøms antikvariat", "url": "https://open.spotify.com/track/7FpbOIh21CaPsfq4nWTEgm", "poster": "https://i.scdn.co/image/ab67616d00001e02549e2b71c408fd587ffb2419" }
       ],
       "years": "2018",
       "releases": [{ "title": "Norsk Skog", "year": "2018", "url": "https://www.discogs.com/master/1503036", "cover": "/covers/norsk-skog.jpg" }]
@@ -435,7 +435,7 @@
       "about": "Also a concert at Belleville in Oslo in 2023.",
       "media": [
         { "label": "Loved You Then And Now Again, music video", "url": "https://www.youtube.com/watch?v=O4uzNIgrSPU" },
-        { "label": "Loved You Then And Now Again", "url": "https://open.spotify.com/track/5qOj6ZoX3ZOgpbcYD3yZLl" }
+        { "label": "Loved You Then And Now Again", "url": "https://open.spotify.com/track/5qOj6ZoX3ZOgpbcYD3yZLl", "poster": "https://i.scdn.co/image/ab67616d00001e0285a6a1c466eba6049f43b97c" }
       ],
       "site": "jonasbarsten.com",
       "category": "music",
@@ -451,7 +451,7 @@
       "about": "Some Feather is the name Kristine Hovda first released music under.",
       "media": [
         { "label": "Princess Song, music video", "url": "https://www.youtube.com/watch?v=uQMrTEmnBn8" },
-        { "label": "Love By Association, with Thom Hell", "url": "https://open.spotify.com/track/10YMXX7TO6lvUWnTyryiHE" }
+        { "label": "Love By Association, with Thom Hell", "url": "https://open.spotify.com/track/10YMXX7TO6lvUWnTyryiHE", "poster": "https://i.scdn.co/image/ab67616d00001e02294b8ce48ab2eb533d87abb5" }
       ],
       "site": "jonasbarsten.com",
       "category": "music",
@@ -468,7 +468,7 @@
       "badges": ["live", "studio"],
       "name": "Tom Hugo",
       "about": "Tom Hugo is a singer and songwriter, and one of the three members of KEiiNO. Also concerts in 2013 and 2014.",
-      "media": [{ "label": "Hjertet tar'kke feil", "url": "https://open.spotify.com/track/6SBNOHziguaLmTzBkSYGwH" }],
+      "media": [{ "label": "Hjertet tar'kke feil", "url": "https://open.spotify.com/track/6SBNOHziguaLmTzBkSYGwH", "poster": "https://i.scdn.co/image/ab67616d00001e023f065583801cd08666e8257e" }],
       "site": "jonasbarsten.com",
       "category": "music",
       "status": "one-off",
@@ -907,8 +907,8 @@
       "name": "Anja Skybakmoen",
       "about": "Vocalist and songwriter.",
       "media": [
-        { "label": "Strand og hav", "url": "https://open.spotify.com/track/38qCMy4jtlcjhTMuf7ShMS" },
-        { "label": "Sahel O Darya", "url": "https://open.spotify.com/track/0cJ6TLpKzeDZ9w9gVZUzwX" }
+        { "label": "Strand og hav", "url": "https://open.spotify.com/track/38qCMy4jtlcjhTMuf7ShMS", "poster": "https://i.scdn.co/image/ab67616d00001e0202162fb5f5457548da2955e7" },
+        { "label": "Sahel O Darya", "url": "https://open.spotify.com/track/0cJ6TLpKzeDZ9w9gVZUzwX", "poster": "https://i.scdn.co/image/ab67616d00001e0202162fb5f5457548da2955e7" }
       ],
       "site": "jonasbarsten.com",
       "category": "music",
