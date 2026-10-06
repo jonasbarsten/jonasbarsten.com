@@ -1152,5 +1152,22 @@
   ],
   "drums-and-electronics": [
     {"date":"2013-06-14","venue":"Victoria","place":"Oslo","note":"master exam concert"}
+  ],
+  "frikar-draumefangaren": [
+    {"date":"2019-08-04","venue":"Åbjøra-juvet","place":"Aurdal"},
+    {"date":"2019-08-03","venue":"Åbjøra-juvet","place":"Aurdal"},
+    {"date":"2019-08-02","venue":"Åbjøra-juvet","place":"Aurdal"},
+    {"date":"2018-08-05","venue":"Åbjøra-juvet","place":"Aurdal"},
+    {"date":"2018-08-04","venue":"Åbjøra-juvet","place":"Aurdal"},
+    {"date":"2018-08-03","venue":"Åbjøra-juvet","place":"Aurdal"},
+    {"date":"2018-08-02","venue":"Åbjøra-juvet","place":"Aurdal"},
+    {"date":"2018-08-01","venue":"Åbjøra-juvet","place":"Aurdal","note":"premiere"}
+  ],
+  "juv": [
+    {"date":"2007-08-12","country":"NO"},
+    {"date":"2007-08-11","country":"NO"},
+    {"date":"2007-08-10","country":"NO"},
+    {"date":"2007-08-09","country":"NO"},
+    {"date":"2007-08-08","country":"NO"}
   ]
 }
