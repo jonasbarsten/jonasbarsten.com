@@ -8,7 +8,7 @@ holds data only. Read `README.md` for the layout, preview and deploy.
 
 - Add, change or remove an entry by editing `content/projects.json`; shows go in `content/shows.json`, and every event, venue, city and country they name in `content/places.json`.
 - After every change, from this repo (`~/Development/jonasbarsten.com`; byjoba-web is at `~/Development/byjoba/byjoba-web`): `CONTENT_DIR=content node --test ../byjoba/byjoba-web/site/test/content.test.mjs` and `node ../byjoba/byjoba-web/site/build.mjs --content content --out dist`. The build refuses invalid content.
-- Entries appear in file order. Within Music, current engagements come before past ones.
+- To change where entries appear, edit the section's `order` in `sites."jonasbarsten.com".sections` (a list of ids shown first, in that order); don't move entries in the file. Entries it doesn't name follow in file order. Within Music, current engagements come before past ones.
 - Only shows Jonas played. A calendar entry is not proof of that; check before adding.
 - An entry that belongs on byjoba.com (software and hardware Jonas makes on his own initiative) goes in byjoba-web's content instead. Nothing is listed on both sites.
 
