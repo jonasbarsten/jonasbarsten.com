@@ -17,6 +17,7 @@ Design: `byjoba-tools/specs/2026-10-04-landing-pages-design.md`, section 8.1.
 | `content/shows.json` | The shows played, per entry id. |
 | `content/places.json` | The countries, cities, events and venues the shows name. |
 | `static/jonasbarsten.com/` | Files copied into the site as they are: record covers, PDFs. |
+| `legacy/` | Earlier versions of the site, kept for the record and never published: `2025-placeholder/` is the page served from the old AWS account's `jonasbarsten-client` bucket until 2026. The 2019 site is in this repo's git history. |
 
 The content model (every field, and how shows and places work) is in
 byjoba-web's README.
