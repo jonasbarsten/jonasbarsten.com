@@ -24,7 +24,7 @@
       "related": ["byjoba.com"],
       "disclaimer": "This list was put together with the help of AI searching my calendar, email and files, so it may contain errors.",
       "sections": [
-        { "title": "Music", "category": "music", "note": "Artists and bands, with my part in each." },
+        { "title": "Music", "category": "music", "note": "Artists and bands, with my part in each. Current first, then past." },
         { "title": "Teaching and live systems", "category": "live-teaching" },
         { "title": "Founder", "category": "founder" },
         { "title": "Spaces", "category": "spaces" },
