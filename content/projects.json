@@ -1564,12 +1564,13 @@
       "url": "https://www.musikkontoret.no/ressurser/mva-utleie-og-fremleie-av-fast-eiendom"
     },
     {
-      "id": "production-premises-association",
-      "name": "Association for culture production premises",
+      "id": "drivrom",
+      "name": "DrivRom",
       "site": "jonasbarsten.com",
       "category": "advocacy",
       "status": "in-development",
-      "summary": "Interest organisation for those who run rehearsal and production premises."
+      "summary": "Interest organisation for those who run rehearsal and production premises.",
+      "url": "https://drivrom.no"
     },
     {
       "id": "boards-and-juries",
