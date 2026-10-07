@@ -67,8 +67,9 @@ Work happens on `dev`; a push to `dev` or a pull request runs
 byjoba-web's engine at its `main`.
 
 Merging to `main` runs `.github/workflows/deploy.yml` in the GitHub
-environment `production`, which only `main` may use and which waits for
-the owner's approval in the Actions tab. It checks and builds the content,
+environment `production`, which only `main` may use. Only the owner may
+update `main`, so the merge is the approval; the deploy needs no further
+step. It checks and builds the content,
 then `aws s3 sync --delete` to the site's bucket, a CloudFront
 invalidation, and an IndexNow submission of the indexed pages with the
 site's `indexNowKey` (a refused submission is a warning only). The workflow assumes the role in the repository variable
@@ -78,6 +79,10 @@ byjoba-iac's `ByjobaWebDeploy-jonasbarsten`), which trusts only this repo's
 distribution.
 
 A change to the engine reaches this site on its next deploy.
+
+Editing from the phone: a Claude session on the repo (Claude Code on the
+web or in the Claude app) follows `CLAUDE.md`: it edits on `dev`, waits for
+CI, and for a content change merges `dev` into `main`, which deploys.
 
 `main` is protected: it cannot be deleted or force-pushed, and only the
 owner may update it. Workflows from outside contributors need approval.
