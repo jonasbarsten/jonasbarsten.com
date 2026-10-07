@@ -1075,6 +1075,7 @@
     {"date":"2017-10-06","venue":"Litteraturhuset","place":"Oslo","note":"premiere"}
   ],
   "vaarin": [
+    {"date":"2025-06-24","place":"Drammen","note":"same event as Anna Lille"},
     {"date":"2025-03-21","country":"NO"},
     {"date":"2024-05-11","place":"Larvik"},
     {"date":"2024-04-25","place":"Øvre Eiker"}
