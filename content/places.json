@@ -246,7 +246,13 @@
     "Åndalsnes": "NO",
     "Aarhus": "DK",
     "Årnes": "NO",
-    "Ås": "NO"
+    "Ås": "NO",
+    "Halden": "NO",
+    "Gothenburg": "SE",
+    "Hultsfred": "SE",
+    "Lærdal": "NO",
+    "Gardermoen": "NO",
+    "Dale i Sunnfjord": "NO"
   },
   "events": [
     "Askimdagene",
@@ -413,7 +419,16 @@
     "Øyafestivalen",
     "Øyanatt",
     "Ålesund Live",
-    "Åmli Musikkfestival"
+    "Åmli Musikkfestival",
+    "Justivalen",
+    "Palmesus",
+    "Popsalongen",
+    "Camp Indie",
+    "Vanylvsrock",
+    "Hultsfredsfestivalen",
+    "Tall Ships Races",
+    "Jordeplerock",
+    "Teaterfestivalen i Fjaler"
   ],
   "venues": [
     {"name":"405 Club","city":"Austin"},
@@ -826,6 +841,30 @@
     {"name":"Øyafestivalen","city":"Oslo"},
     {"name":"Ålesund Live","city":"Ålesund"},
     {"name":"Åmli Musikkfestival","city":"Åmli"},
-    {"name":"Årvoll skole","city":"Oslo"}
+    {"name":"Årvoll skole","city":"Oslo"},
+    {"name":"Fiskebrygga","city":"Kristiansand"},
+    {"name":"Odderøya","city":"Kristiansand"},
+    {"name":"Kaledonien","city":"Kristiansand"},
+    {"name":"Viken folkehøgskole"},
+    {"name":"Toneheim folkehøgskole","city":"Hamar"},
+    {"name":"Sund folkehøgskole"},
+    {"name":"Hydranten","city":"Hamar"},
+    {"name":"Skatehallen","city":"Oslo"},
+    {"name":"Betong","city":"Oslo"},
+    {"name":"Chateau Neuf","city":"Oslo"},
+    {"name":"Café Kaos","city":"Oslo"},
+    {"name":"Café Fisaco"},
+    {"name":"Turkish Delight","city":"Oslo"},
+    {"name":"Soria Moria","city":"Oslo"},
+    {"name":"Spikersuppa","city":"Oslo"},
+    {"name":"The Villa","city":"Oslo"},
+    {"name":"Café D'Ohr"},
+    {"name":"Dattera til Hagen","city":"Oslo"},
+    {"name":"Night Hawk Diner","city":"Oslo"},
+    {"name":"Black Box teater","city":"Oslo"},
+    {"name":"Oscar"},
+    {"name":"Hultsfredsfestivalen","city":"Hultsfred"},
+    {"name":"Jordeplerock","city":"Lærdal"},
+    {"name":"Oslo Airport","city":"Gardermoen"}
   ]
 }
