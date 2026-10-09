@@ -46,7 +46,7 @@
     {"date":"2025-08-08","place":"Tromsø"},
     {"date":"2025-04-17","place":"Geilo","note":"as a trio"},
     {"date":"2024-08-30","event":"Askimdagene","venue":"Guderudparken","place":"Askim"},
-    {"date":"2024-08-23","country":"NO"},
+    {"date":"2024-08-23","place":"Levanger"},
     {"date":"2024-07-27","venue":"Sveian","country":"NO"},
     {"date":"2024-06-19","place":"Kongsberg"},
     {"date":"2024-05-24","event":"Fjørarock","venue":"Fjørarock","place":"Sogndal"},
@@ -161,7 +161,7 @@
     {"date":"2018-04-11","place":"Oppland","note":"school tour"},
     {"date":"2018-04-10","place":"Oppland","note":"school tour"},
     {"date":"2018-04-09","place":"Oppland","note":"school tour"},
-    {"date":"2018-04-04","country":"NO"},
+    {"date":"2018-04-04","place":"Svalbard"},
     {"date":"2018-02-21","place":"Oppland","note":"school tour"},
     {"date":"2018-02-20","place":"Oppland","note":"school tour"},
     {"date":"2018-02-19","place":"Oppland","note":"school tour"},
@@ -205,7 +205,7 @@
     {"date":"2016-09-13","venue":"Vestre Aker skole and Ullevålsveien skole","place":"Oslo","note":"school tour"},
     {"date":"2016-09-12","venue":"Morellbakken skole","place":"Oslo","note":"school tour"},
     {"date":"2016-09-05","venue":"Fyrstikkalleen skole","place":"Oslo","note":"school tour"},
-    {"date":"2016-09-01","venue":"Kulturtorget","place":"Bø"}
+    {"date":"2016-08-31","venue":"Kulturtorget","place":"Bø"}
   ],
   "sandra-lyng": [
     {"date":"2016-11-11","place":"Warsaw","note":"ANSA event"},
@@ -305,8 +305,8 @@
     {"date":"2013-02-13","event":"by:Larm","place":"Oslo","note":"opening night"}
   ],
   "alan-walker": [
-    {"date":"2024-02-13","country":"NO","note":"filming of Who I Am, Restrung, with Putri Ariani and Peder Elias, second day"},
-    {"date":"2024-02-12","country":"NO","note":"filming of Who I Am, Restrung, with Putri Ariani and Peder Elias, first day"},
+    {"date":"2024-02-13","place":"Åndalsnes","note":"filming of Who I Am, Restrung, with Putri Ariani and Peder Elias, second day"},
+    {"date":"2024-02-12","place":"Åndalsnes","note":"filming of Who I Am, Restrung, with Putri Ariani and Peder Elias, first day"},
     {"date":"2021-12-10","event":"Idol Sweden","place":"Stockholm","note":"final (TV)"},
     {"date":"2020-02-04","venue":"Château de Fontainebleau","place":"Fontainebleau","note":"filming of Alone, Pt. II with Ava Max and Heading Home with Ruben, second day"},
     {"date":"2020-02-03","venue":"Château de Fontainebleau","place":"Fontainebleau","note":"filming of Alone, Pt. II with Ava Max and Heading Home with Ruben, first day"},
