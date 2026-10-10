@@ -6,6 +6,7 @@ Jonas has already answered these. Do not ask about them again; check this list b
 
 - Sirkus Eliassen at Rockefeller: not played.
 - Pasha: never played with Pasha; musical director only.
+- Sandra Kolstad in Moss, 4 Jun 2026: did not happen (removed).
 - DnBNOR event at Skei, 2 Apr 2011: played drums, band unknown; skip it.
 - From email (stand-in, cancelled or moved; removed): Nils Bech at SchwuZ 5 Feb 2017; Sandra Kolstad in Stavanger 30 Sep 2017, Oppland 9–11 Apr 2018, Spain 3–6 Oct 2019 (she played solo), Litteraturhuset Trondheim 2 Apr 2025 (cancelled, she was sick); Jimmy Smash at Jæger 29 Nov 2017 (Jørgen stood in); Ary at Steen & Strøm 26 Apr 2018 (stand-in); Hanne Hukkelberg in Bø 15 Nov 2019.
 - Frikar: Draumefangaren, 2–4 Aug 2019: Eirik Raude played (removed). The 2018 run was played.
