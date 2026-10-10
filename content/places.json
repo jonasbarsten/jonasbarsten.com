@@ -345,6 +345,7 @@
     "Melafestivalen",
     "Moldejazz",
     "Morellfestivalen",
+    "Stettevikfestivalen",
     "Musikkfest Oslo",
     "Månefestivalen",
     "Natt&Dag",
@@ -867,6 +868,7 @@
     {"name":"Hultsfredsfestivalen","city":"Hultsfred"},
     {"name":"Jordeplerock","city":"Lærdal"},
     {"name":"Oslo Airport","city":"Gardermoen"},
-    {"name":"Kunstmuseet","city":"Kristiansand"}
+    {"name":"Kunstmuseet","city":"Kristiansand"},
+    {"name":"Voss Idrettshall","city":"Voss"}
   ]
 }
