@@ -498,7 +498,7 @@
     {"name":"Scenehuset","city":"Oslo"},
     {"name":"Søgne gamle prestegård","city":"Søgne"},
     {"name":"Sør Arena","city":"Kristiansand"},
-    {"name":"SUPA"},
+    {"name":"SUPA","city":"Trondheim"},
     {"name":"Tollboden","city":"Kristiansand"},
     {"name":"University of Agder","city":"Kristiansand"},
     {"name":"Zoologisk Museum","city":"Oslo"},
@@ -866,6 +866,7 @@
     {"name":"Oscar"},
     {"name":"Hultsfredsfestivalen","city":"Hultsfred"},
     {"name":"Jordeplerock","city":"Lærdal"},
-    {"name":"Oslo Airport","city":"Gardermoen"}
+    {"name":"Oslo Airport","city":"Gardermoen"},
+    {"name":"Kunstmuseet","city":"Kristiansand"}
   ]
 }

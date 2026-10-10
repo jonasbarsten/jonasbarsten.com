@@ -314,9 +314,9 @@
     {"date":"2013-07-20","event":"Buktafestivalen","venue":"Buktafestivalen","place":"Tromsø","review":{"label":"Nordlys","url":"https://www.nordlys.no/bukta/nar-regnet-spiller-pa-lag-med-bandet/r/1-79-6769406"}},
     {"date":"2013-07-02","event":"Hovefestivalen","venue":"Hovefestivalen","place":"Arendal","review":{"label":"NRK P3","url":"https://www.nrk.no/p3/musikkanmeldelser/anmeldelse_-atlanter_-hovescenen_-hovefestivalen-2013-1.17233539"}},
     {"date":"2013-02-16","event":"by:Larm","venue":"Crossroad Club","place":"Oslo"},
-    {"date":"2013-02-16","event":"by:Larm","place":"Oslo"},
+    {"date":"2013-02-16","event":"by:Larm","venue":"Internasjonalen","place":"Oslo"},
     {"date":"2013-02-14","event":"by:Larm","venue":"Herr Nilsen","place":"Oslo","review":{"label":"NRK P3","url":"https://www.nrk.no/p3/anmeldelse_-atlanter_-by_larm_-herr-nilsen-1.17234065"}},
-    {"date":"2013-02-13","event":"by:Larm","place":"Oslo","note":"opening night"}
+    {"date":"2013-02-13","event":"by:Larm","venue":"Kulturhuset","place":"Oslo","note":"opening night"}
   ],
   "alan-walker": [
     {"date":"2024-02-13","place":"Åndalsnes","note":"filming of Who I Am, Restrung, with Putri Ariani and Peder Elias, second day"},
@@ -348,7 +348,7 @@
     {"date":"2018-02-25","event":"Spellemann","venue":"Oslo Konserthus","place":"Oslo"},
     {"date":"2017-12-08","venue":"Andre Etasje","place":"Oslo","note":"with Sølvguttene"},
     {"date":"2017-11-28","venue":"YouTube Space NY","place":"New York","note":"filmed performance"},
-    {"date":"2017-09-09","note":"corporate event"},
+    {"date":"2017-09-09","place":"Oslo","note":"corporate event"},
     {"date":"2017-01-22","venue":"Globen","place":"Stockholm","note":"corporate event"},
     {"date":"2017-01-11","event":"Eurosonic","place":"Groningen","note":"EBBA Awards (TV)"},
     {"date":"2016-12-22","venue":"USF Verftet","place":"Bergen"},
@@ -562,7 +562,7 @@
     {"date":"2012-03-02","venue":"John Dee","place":"Oslo"},
     {"date":"2012-02-03","venue":"Blå","place":"Oslo"},
     {"date":"2012-01-21","venue":"Turkish Delight","place":"Oslo"},
-    {"date":"2012-02-24","venue":"SUPA","country":"NO"},
+    {"date":"2012-02-24","venue":"SUPA","place":"Trondheim"},
     {"date":"2018-06-04","venue":"Victoria","place":"Oslo"},
     {"date":"2018-01-26","venue":"Perlen","place":"Oslo"},
     {"date":"2012-08-07","event":"Klubbøya","place":"Oslo"},
@@ -701,10 +701,10 @@
     {"date":"2009-10-21","venue":"Toneheim folkehøgskole","place":"Hamar"},
     {"date":"2009-10-19","venue":"Viken folkehøgskole","country":"NO"},
     {"date":"2009","place":"Trondheim"},
-    {"date":"2009","place":"Oslo"},
+    {"date":"2009-10-30","place":"Oslo"},
     {"date":"2009","place":"Skien"},
-    {"date":"2009","place":"Gjøvik"},
-    {"date":"2009","place":"Hamar"}
+    {"date":"2009-10-23","place":"Gjøvik"},
+    {"date":"2009-10-22","place":"Hamar"}
   ],
   "mads-with-band": [
     {"date":"2010-11-20","place":"Kristiansand"},
@@ -736,7 +736,7 @@
   "kjetil-grande": [
     {"date":"2009-08-17","venue":"Odderøya","place":"Kristiansand"},
     {"date":"2009-08-16","venue":"Odderøya","place":"Kristiansand"},
-    {"date":"2009-12-18","country":"NO"},
+    {"date":"2009-12-18","venue":"Charlies Bar","place":"Kristiansand"},
     {"date":"2009-08-18","event":"Studiestartfestivalen","place":"Kristiansand"}
   ],
   "i-ate-my-pony": [
@@ -955,7 +955,7 @@
     {"date":"2014-02-14","venue":"Musikkflekken","place":"Sandvika"},
     {"date":"2011-07-16","event":"Slottsfjell","venue":"Slottsfjell","place":"Tønsberg","note":"percussion","review":{"label":"Martins musikkblogg","url":"https://www.martinsmusikkblogg.com/sassybeat-slottsfjell-2011/"}},
     {"date":"2011-02-19","event":"by:Larm","venue":"Sentrum Scene","place":"Oslo"},
-    {"date":"2011-02-17","event":"by:Larm","place":"Oslo"}
+    {"date":"2011-02-17","event":"by:Larm","venue":"Parkteatret","place":"Oslo"}
   ],
   "anja-skybakmoen": [
     {"date":"2025-02-09","venue":"Biermannsgården","place":"Oslo"},
@@ -1306,10 +1306,10 @@
     {"date":"2012-06-12","venue":"Scenehuset","place":"Oslo","note":"Antiloop"},
     {"date":"2012-05-03","venue":"300as","place":"Oslo","note":"with Jan Bang"},
     {"date":"2011-09","event":"Ultima","place":"Oslo","note":"festival opening, percussion"},
-    {"date":"2011-05-20","event":"Tape to Zero","place":"Oslo","note":"SkRR"},
-    {"date":"2011-05","place":"Kristiansand","note":"Modulært Grand Prix"},
+    {"date":"2011-05-20","event":"Tape to Zero","venue":"Victoria","place":"Oslo","note":"SkRR"},
+    {"date":"2011-05-14","venue":"Kunstmuseet","place":"Kristiansand","note":"Modulært Grand Prix"},
     {"date":"2010-10","event":"Dølajazz","place":"Lillehammer","note":"Personal Sounds, Jazzincubator"},
-    {"date":"2009","event":"Punkt","place":"Kristiansand","note":"festival opening, Adam Rudolph's Organic Orchestra"}
+    {"date":"2010-09-02","event":"Punkt","venue":"Teateret","place":"Kristiansand","note":"festival opening, Adam Rudolph's Organic Orchestra"}
   ],
   "kristiansand-years": [
     {"date":"2010-09-15","place":"Lillehammer","note":"Inti, support for Madcon"},
@@ -1324,11 +1324,13 @@
     {"date":"2011-01-06","country":"NO","note":"Christmas session"},
     {"date":"2011-01","country":"NO","note":"ståopp-jazz"},
     {"date":"2010-08-12","event":"Knokkelrock","country":"NO"},
-    {"date":"2010-08","place":"Drammen","note":"Inti"},
-    {"date":"2010-06","country":"NO","note":"Inti, tour of Sørlandet"},
+    {"date":"2010-08-20","place":"Drammen","note":"Inti"},
+    {"date":"2010-06-12","venue":"Tollboden","place":"Kristiansand","note":"Inti"},
+    {"date":"2010-06-11","place":"Drammen","note":"Inti"},
+    {"date":"2010-06-10","place":"Risør","note":"Inti"},
     {"date":"2010-05-15","venue":"Tollboden","place":"Kristiansand","note":"Inti"},
     {"date":"2009-12","venue":"Sør Arena","place":"Kristiansand","note":"Øyvind Nypan"},
-    {"date":"2009-12","venue":"Kristiansand Jazzklubb","place":"Kristiansand","note":"Christmas session"},
+    {"date":"2009-12-06","venue":"Kristiansand Jazzklubb","place":"Kristiansand","note":"Christmas session"},
     {"date":"2009-08-13","venue":"Søgne gamle prestegård","place":"Søgne","note":"Monica Severinsen"}
   ],
   "bjorn-charles-dreyer-group": [
@@ -1350,7 +1352,7 @@
     {"date":"2010-11-23","venue":"Victoria","place":"Oslo"}
   ],
   "theatre-and-dance": [
-    {"date":"2015-07","event":"Moldejazz","place":"Molde","note":"TRE"},
+    {"date":"2015-07-15","event":"Moldejazz","place":"Molde","note":"TRE"},
     {"date":"2014-10-10","country":"NO","note":"TRE, school tour"},
     {"date":"2014-10-09","country":"NO","note":"TRE, school tour"},
     {"date":"2014-09-24","country":"NO","note":"TRE, school tour"},
