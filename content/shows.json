@@ -39,6 +39,7 @@
     {"date":"2023-09-28","venue":"Café Månefisken","place":"Oslo"}
   ],
   "daniel-kvammen": [
+    {"date":"2026-10-09","place":"Voss"},
     {"date":"2026-08-21","venue":"Fæsterålen","place":"Sortland"},
     {"date":"2025-01-25","venue":"Oslo Airport","place":"Gardermoen"},
     {"date":"2026-07-24","place":"Lofthus"},
@@ -84,6 +85,7 @@
     {"date":"2021-03-20","venue":"Kroa i Bø","place":"Bø"},
     {"date":"2021-03-06","venue":"USF Verftet","place":"Bergen","note":"Røkeriet"},
     {"date":"2021-03-05","place":"Stavanger"},
+    {"date":"2021-03-02","place":"Fredrikstad"},
     {"date":"2021-02-26","venue":"Studentersamfundet","place":"Trondheim","note":"Storsalen"},
     {"date":"2016-09-23","venue":"Last Train","place":"Oslo","note":"with bob hund"},
     {"date":"2016-08-19","place":"Tønsberg"},
@@ -103,18 +105,14 @@
   "sandra-kolstad": [
     {"date":"2026-06-04","place":"Moss"},
     {"date":"2025-04-03","place":"Trondheim","note":"school tour"},
-    {"date":"2019-10-06","place":"Barcelona"},
-    {"date":"2019-10-04","place":"Burgos"},
     {"date":"2019-05-11","place":"Bergen","note":"in-store"},
     {"date":"2017-10-21","place":"Kristiansand"},
     {"date":"2017-10-13","place":"Bergen"},
-    {"date":"2017-09-30","place":"Stavanger"},
     {"date":"2026-05-16","venue":"Sentrum Scene","place":"Oslo"},
     {"date":"2025-10-02","place":"Haugesund"},
     {"date":"2025-08-10","venue":"Hellviktangen","place":"Nesodden"},
     {"date":"2025-05-23","place":"Bergen"},
     {"date":"2025-04-10","venue":"Melhus vgs","place":"Melhus","note":"school tour"},
-    {"date":"2025-04-02","venue":"Litteraturhuset","place":"Trondheim","note":"Elv på himmelen"},
     {"date":"2025-04-09","place":"Oppdal","note":"school tour"},
     {"date":"2025-04-08","place":"Orkanger","note":"school tour"},
     {"date":"2025-03-13","venue":"Trondheim voksenopplæringssenter","place":"Trondheim","note":"school tour"},
@@ -153,7 +151,6 @@
     {"date":"2022-03-21","venue":"Lørenskog vgs","place":"Lørenskog","note":"school tour"},
     {"date":"2021-08-26","event":"Skolestartfestivalen","venue":"Mysen vgs","place":"Mysen"},
     {"date":"2019-11-21","venue":"Dansens Hus","place":"Oslo"},
-    {"date":"2019-10-03","venue":"Espacio Fundación Telefónica","place":"Madrid"},
     {"date":"2019-10-02","event":"Brenner (NRK)","place":"Oslo"},
     {"date":"2019-06-11","event":"Heddadagene","place":"Oslo"},
     {"date":"2019-05-10","venue":"Landmark","place":"Bergen"},
@@ -164,9 +161,6 @@
     {"date":"2018-11-16","venue":"Bortenfor","country":"NO"},
     {"date":"2018-06-02","place":"Bergen"},
     {"date":"2018-05-16","place":"Oslo"},
-    {"date":"2018-04-11","place":"Oppland","note":"school tour"},
-    {"date":"2018-04-10","place":"Oppland","note":"school tour"},
-    {"date":"2018-04-09","place":"Oppland","note":"school tour"},
     {"date":"2018-04-04","place":"Svalbard"},
     {"date":"2018-02-21","place":"Oppland","note":"school tour"},
     {"date":"2018-02-20","place":"Oppland","note":"school tour"},
@@ -482,7 +476,6 @@
     {"date":"2018-06-22","place":"Steinkjer"},
     {"date":"2018-06-08","venue":"Ling Ling","place":"Oslo"},
     {"date":"2018-05-05","place":"Stavanger"},
-    {"date":"2018-04-26","venue":"Steen & Strøm","place":"Oslo"},
     {"date":"2018-04-06","venue":"Sentrum Scene","place":"Oslo"},
     {"date":"2018-03-09","venue":"Sentrum Scene","place":"Oslo"},
     {"date":"2018-03-08","place":"Bergen"},
@@ -503,7 +496,6 @@
     {"date":"2017-03-24","event":"Lindmo (NRK)","place":"Oslo"}
   ],
   "nils-bech": [
-    {"date":"2017-02-05","venue":"SchwuZ","place":"Berlin"},
     {"date":"2013-09-13","event":"Ultima","place":"Oslo"},
     {"date":"2017-01-12","event":"Eurosonic","venue":"Platformtheater","place":"Groningen"},
     {"date":"2015-09-05","venue":"Perkapella","place":"Stavanger"},
@@ -524,7 +516,7 @@
   "thea-hjelmeland": [
     {"date":"2026-09-11","event":"Teaterfestivalen i Fjaler","place":"Dale i Sunnfjord"},
     {"date":"2014-11-25","event":"Festival Les Boréales","place":"Caen"},
-    {"date":"2023-09-08","place":"Bergen"},
+    {"date":"2023-09-08","event":"Teaterfestivalen i Fjaler","place":"Dale i Sunnfjord"},
     {"date":"2016-09-17","venue":"USF Verftet","place":"Bergen","note":"showcase during Vill Vill Vest"},
     {"date":"2015-07-25","event":"Fres Festival","venue":"Fres Festival","place":"Fresvik"},
     {"date":"2015-07-22","event":"Festival Músicas do Mundo","venue":"Festival Músicas do Mundo","place":"Sines"},
@@ -1223,8 +1215,7 @@
     {"date":"2018-10-13","venue":"St. Croix","place":"Fredrikstad"},
     {"date":"2018-08-24","venue":"Studentersamfundet","place":"Trondheim"},
     {"date":"2018-03-01","event":"by:Larm","venue":"Ingensteds","place":"Oslo"},
-    {"date":"2018-02-01","event":"Trondheim Calling","venue":"Kunsthall Trondheim","place":"Trondheim"},
-    {"date":"2017-11-29","venue":"Jæger","place":"Oslo"}
+    {"date":"2018-02-01","event":"Trondheim Calling","venue":"Kunsthall Trondheim","place":"Trondheim"}
   ],
   "marthe-valle": [
     {"date":"2019-02-02","event":"Celtic Connections","place":"Glasgow"},
@@ -1236,7 +1227,6 @@
     {"date":"2018-11-15","event":"Senkveld (TV 2)","place":"Oslo","note":"with K-391"}
   ],
   "hanne-hukkelberg": [
-    {"date":"2019-11-15","event":"Bø Jazzklubb","venue":"Parketten","place":"Bø"},
     {"date":"2019-08-07","venue":"Salt","place":"Oslo"},
     {"date":"2019-07-06","event":"Kongsberg Jazzfestival","venue":"Lågdalsmuseet","place":"Kongsberg","note":"REMIXME, with Fredrik Høyer"},
     {"date":"2018-08-09","place":"Tromsø"}
