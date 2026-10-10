@@ -883,7 +883,7 @@
     {"date":"2013-05-03","place":"Hamburg"},
     {"date":"2013-02-16","event":"by:Larm","place":"Oslo","note":"WiMP tent"},
     {"date":"2015-02-06","event":"Uka","venue":"Blindern","place":"Oslo"},
-    {"date":"2015-01-29","event":"NRK P3","country":"NO"},
+    {"date":"2015-01-29","event":"NRK P3","place":"Oslo","note":"live session on P3 Christine"},
     {"date":"2014-11-17","venue":"Danvik","place":"Drammen"},
     {"date":"2014-09-26","venue":"St. Croix","place":"Fredrikstad"},
     {"date":"2014-08-13","event":"Christian Frederik-dagene","place":"Moss"},
