@@ -34,6 +34,7 @@
       "shareImage": { "path": "/share.png", "width": 1200, "height": 630, "alt": "Jonas Barsten. Drummer and musical director. Also creates tools and rooms for music." },
       "indexNowKey": "9dcf30a17e6c4294e15dd5d5f4234273",
       "counterSince": "2026-10-06",
+      "collapsedSections": true,
       "turnstileSiteKey": "0x4AAAAAAFNjFT1LyWQybR_q",
       "related": ["byjoba.com"],
       "disclaimer": "This list was put together with the help of AI searching my calendar, email and files, so it may contain errors.",
