@@ -232,6 +232,8 @@
     {"date":"2015-09-18","event":"Gjøvikmarken","place":"Gjøvik"}
   ],
   "atlanter": [
+    {"date":"2026-10-17","place":"Sandnessjøen"},
+    {"date":"2026-10-16","event":"Smeltedigelen","venue":"Teaterkafeen, Nordland Teater","place":"Mo i Rana"},
     {"date":"2014-09-17","event":"WiMPfest","place":"Oslo","note":"with Hanne Kolstø and Anne-Lise Frøkedal"},
     {"date":"2014-03-01","event":"Nordic Music Prize","venue":"Sentrum Scene","place":"Oslo"},
     {"date":"2013-06-30","country":"NO"},
