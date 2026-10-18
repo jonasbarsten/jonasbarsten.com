@@ -36,6 +36,8 @@ Jonas has already answered these. Do not ask about them again; check this list b
 - Daniel Kvammen at Voss, 9 Oct 2026: played (Voss Idrettshall).
 - From email (played): Ary in Tallinn 7 Jul 2018; Thea Hjelmeland at Teaterfestivalen i Fjaler 8 Sep 2023 (not Bergen); Daniel Kvammen in Fredrikstad 2 Mar 2021 (Kristiansand moved to 6 May 2021).
 
+- Atlanter in Mo i Rana, 16 Oct 2026, and Sandnessjøen, 17 Oct 2026: played (confirmed by Jonas).
+
 ## Sources
 
 - The Tour Control calendar feed (scope "assigned") has every gig booked through Tour Control from November 2025 on, with venue, date and status. Use it before asking. Jonas has the feed link; it is private, never put it in the repo.

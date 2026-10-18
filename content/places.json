@@ -252,7 +252,8 @@
     "Hultsfred": "SE",
     "Lærdal": "NO",
     "Gardermoen": "NO",
-    "Dale i Sunnfjord": "NO"
+    "Dale i Sunnfjord": "NO",
+    "Sandnessjøen": "NO"
   },
   "events": [
     "Askimdagene",
@@ -430,7 +431,8 @@
     "Tall Ships Races",
     "Jordeplerock",
     "Teaterfestivalen i Fjaler",
-    "Nordic Music Prize"
+    "Nordic Music Prize",
+    "Smeltedigelen"
   ],
   "venues": [
     {"name":"405 Club","city":"Austin"},
@@ -869,6 +871,7 @@
     {"name":"Jordeplerock","city":"Lærdal"},
     {"name":"Oslo Airport","city":"Gardermoen"},
     {"name":"Kunstmuseet","city":"Kristiansand"},
-    {"name":"Voss Idrettshall","city":"Voss"}
+    {"name":"Voss Idrettshall","city":"Voss"},
+    {"name":"Teaterkafeen, Nordland Teater","city":"Mo i Rana"}
   ]
 }
