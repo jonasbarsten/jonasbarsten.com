@@ -1108,6 +1108,7 @@
     {"date":"2016-02-26","place":"Saint-Louis-du-Sud","note":"first concert, with the full group"}
   ],
   "stand-in": [
+    {"date":"2026-10-24","act":"Ingrid Jasmin","venue":"Riksscenen","place":"Oslo"},
     {"date":"2023-10-20","act":"Max","country":"NO"},
     {"date":"2014-10-22","act":"Gunhild Nyborg","place":"Oslo","note":"event"},
     {"date":"2013-09-18","act":"Maren Selvaag","venue":"Oslo Konserthus","place":"Oslo"},
