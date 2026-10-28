@@ -19,7 +19,7 @@ Jonas has already answered these. Do not ask about them again; check this list b
 - Åges, Strømstad: not played (DITU in Bergen instead).
 - Sassybeat in Risør, Koeju in Oslo/Krakow: not played.
 - Soul Control, Jansen's five-year party, Supersilent: not gigs.
-- Ingrid Jasmin: not played (a meeting).
+- Ingrid Jasmin: the earlier calendar entry was a meeting, not a gig. This does not refer to the concert on 24 Oct 2026.
 - Unge Ferrari and Arif at Oslo Spektrum, 2017: backing tracks and sync, not a gig (on the Playback systems card).
 - Average Savage at Sleipner MC, around 2004: leave it out.
 - Julebord and rehearsals (øving): never gigs.
@@ -37,6 +37,8 @@ Jonas has already answered these. Do not ask about them again; check this list b
 - From email (played): Ary in Tallinn 7 Jul 2018; Thea Hjelmeland at Teaterfestivalen i Fjaler 8 Sep 2023 (not Bergen); Daniel Kvammen in Fredrikstad 2 Mar 2021 (Kristiansand moved to 6 May 2021).
 
 - Atlanter in Mo i Rana, 16 Oct 2026, and Sandnessjøen, 17 Oct 2026: played (confirmed by Jonas).
+
+- Ingrid Jasmin at Riksscenen, Oslo, 24 Oct 2026: played (confirmed by Jonas); listed under stand-in and single concerts for now.
 
 ## Sources
 
