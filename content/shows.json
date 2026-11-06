@@ -232,6 +232,7 @@
     {"date":"2015-09-18","event":"Gjøvikmarken","place":"Gjøvik"}
   ],
   "atlanter": [
+    {"date":"2026-11-06","venue":"Die Tankstelle","place":"Molde"},
     {"date":"2026-10-17","place":"Sandnessjøen"},
     {"date":"2026-10-16","event":"Smeltedigelen","venue":"Teaterkafeen, Nordland Teater","place":"Mo i Rana"},
     {"date":"2014-09-17","event":"WiMPfest","place":"Oslo","note":"with Hanne Kolstø and Anne-Lise Frøkedal"},
@@ -1013,6 +1014,7 @@
     {"date":"2022-08-11","event":"Øyafestivalen","venue":"Øyafestivalen","place":"Oslo","review":{"label":"Musikknyheter","url":"https://www.musikknyheter.no/konserter/22259/%C3%98ya-2022:-L:U.N.A.html"}}
   ],
   "vegard": [
+    {"date":"2026-11-05","event":"Vill Vill Vest","venue":"Det Vestnorske Teateret","place":"Bergen"},
     {"date":"2026-06-21","event":"Rabalder","venue":"Charlottenlundparken","place":"Tromsø"},
     {"date":"2026-08-08","event":"Sápmi Pride","venue":"Papana Bar","place":"Inari"},
     {"date":"2026-06-19","event":"Ohcejohka šearrá","venue":"Onnelan törmä","place":"Utsjoki"},
