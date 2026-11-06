@@ -40,6 +40,9 @@ Jonas has already answered these. Do not ask about them again; check this list b
 
 - Ingrid Jasmin at Riksscenen, Oslo, 24 Oct 2026: played (confirmed by Jonas); listed under stand-in and single concerts for now.
 
+- Vegard at Vill Vill Vest, Det Vestnorske Teateret, Bergen, 5 Nov 2026: played (confirmed by Jonas).
+- Atlanter at Die Tankstelle, Molde, 6 Nov 2026: Jonas explicitly requested adding this day's gig on 6 Nov 2026.
+
 ## Sources
 
 - The Tour Control calendar feed (scope "assigned") has every gig booked through Tour Control from November 2025 on, with venue, date and status. Use it before asking. Jonas has the feed link; it is private, never put it in the repo.

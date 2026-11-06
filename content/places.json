@@ -432,7 +432,8 @@
     "Jordeplerock",
     "Teaterfestivalen i Fjaler",
     "Nordic Music Prize",
-    "Smeltedigelen"
+    "Smeltedigelen",
+    "Vill Vill Vest"
   ],
   "venues": [
     {"name":"405 Club","city":"Austin"},
@@ -872,6 +873,8 @@
     {"name":"Oslo Airport","city":"Gardermoen"},
     {"name":"Kunstmuseet","city":"Kristiansand"},
     {"name":"Voss Idrettshall","city":"Voss"},
-    {"name":"Teaterkafeen, Nordland Teater","city":"Mo i Rana"}
+    {"name":"Teaterkafeen, Nordland Teater","city":"Mo i Rana"},
+    {"name":"Det Vestnorske Teateret","city":"Bergen"},
+    {"name":"Die Tankstelle","city":"Molde"}
   ]
 }
