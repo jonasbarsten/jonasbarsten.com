@@ -436,6 +436,7 @@
     "Vill Vill Vest"
   ],
   "venues": [
+    {"name":"Bastard Bar","city":"Tromsø"},
     {"name":"405 Club","city":"Austin"},
     {"name":"A4 Studio","city":"Bratislava"},
     {"name":"Agder folkehøgskole","city":"Vest-Agder"},
